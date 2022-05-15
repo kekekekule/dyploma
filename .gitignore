@@ -1,0 +1,12 @@
+lambda_env
+*egg-info
+*ipynb
+.vscode
+data/datasets/raw_data
+.DS_STORE
+__pycache__
+.idea
+init_run
+lightning_logs
+wandb
+gnn4pbpm

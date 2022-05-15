@@ -1,0 +1,32 @@
+{
+    "dataset": "helpdesk",
+    "model_slug": "vanilla_ggnn",
+    "model_config": {
+        "num_activities": 14,
+        "optimizer": {
+            "verbose": true
+        },
+        "num_timestamps": 1
+    },
+    "embeddings": {
+        "vectorsize": 16,
+        "start_alpha": 0.025,
+        "n_epochs": 10,
+        "learning_rate": 0.002,
+        "window": 3,
+        "slug": "Act2Vec",
+        "dataset_name": "helpdesk",
+        "cache": "helpdesk_31543f86-b798-4e1a-943d-3f06545eeb51.model",
+        "save": false
+    },
+    "path_to_train": "./raw_data/helpdesk/helpdesk_train.csv",
+    "path_to_val": "./raw_data/helpdesk/helpdesk_val.csv",
+    "path_to_test": "./raw_data/helpdesk/helpdesk_test.csv",
+    "preprocessor_slugs": [
+        "DFGGraphBuilder"
+    ],
+    "train_config": {
+        "max_epochs": 30
+    },
+    "run_name": "helpdesk_party_lmao"
+}

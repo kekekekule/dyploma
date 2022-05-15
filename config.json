@@ -1,0 +1,23 @@
+{
+    "dataset": "helpdesk",
+    "model_slug": "attentive_ggnn",
+    "model_config": {
+        "num_activities": 14,
+        "optimizer": {
+            "verbose": true
+        },
+        "num_timestamps": 1,
+        "use_standard_embedding": 128
+    },
+    "embeddings": null,
+    "path_to_train": "./raw_data/helpdesk/helpdesk_train.csv",
+    "path_to_val": "./raw_data/helpdesk/helpdesk_val.csv",
+    "path_to_test": "./raw_data/helpdesk/helpdesk_test.csv",
+    "preprocessor_slugs": [
+        "DFGGraphBuilder"
+    ],
+    "train_config": {
+        "max_epochs": 30
+    },
+    "run_name": "helpdesk_party_lmao"
+}

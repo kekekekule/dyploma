@@ -1,0 +1,915 @@
+,Case ID,Activity,Resource,Complete Timestamp,Variant,Variant index,Variant.1,seriousness,customer,product,responsible_section,seriousness_2,service_level,service_type,support_section,workgroup
+42,Case 10,Assign seriousness,Value 2,2010/02/10 08:50:20.000,Variant 1,1,Variant 1,Value 1,Value 10,Value 3,Value 2,Value 1,Value 3,Value 1,Value 2,Value 3
+43,Case 10,Take in charge ticket,Value 2,2010/03/19 08:47:06.000,Variant 1,1,Variant 1,Value 1,Value 10,Value 3,Value 2,Value 1,Value 3,Value 1,Value 2,Value 3
+44,Case 10,Resolve ticket,Value 2,2010/03/19 08:47:13.000,Variant 1,1,Variant 1,Value 1,Value 10,Value 3,Value 2,Value 1,Value 3,Value 1,Value 2,Value 3
+45,Case 10,Closed,Value 5,2010/04/03 07:47:38.000,Variant 1,1,Variant 1,Value 1,Value 10,Value 3,Value 2,Value 1,Value 3,Value 1,Value 2,Value 3
+46,Case 11,Assign seriousness,Value 4,2011/12/21 15:24:41.000,Variant 1,1,Variant 1,Value 1,Value 11,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+47,Case 11,Take in charge ticket,Value 4,2011/12/21 15:25:34.000,Variant 1,1,Variant 1,Value 1,Value 11,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+48,Case 11,Resolve ticket,Value 4,2011/12/22 09:55:43.000,Variant 1,1,Variant 1,Value 1,Value 11,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+49,Case 11,Closed,Value 5,2012/01/21 15:30:31.000,Variant 1,1,Variant 1,Value 1,Value 11,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+614,Case 134,Assign seriousness,Value 8,2011/04/19 14:42:45.000,Variant 1,1,Variant 1,Value 1,Value 80,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+615,Case 134,Take in charge ticket,Value 8,2011/04/19 14:45:25.000,Variant 1,1,Variant 1,Value 1,Value 80,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+616,Case 134,Resolve ticket,Value 8,2011/04/19 14:45:42.000,Variant 1,1,Variant 1,Value 1,Value 80,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+617,Case 134,Closed,Value 5,2011/06/02 14:50:17.000,Variant 1,1,Variant 1,Value 1,Value 80,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+785,Case 171,Assign seriousness,Value 13,2011/08/29 14:12:48.000,Variant 4,4,Variant 4,Value 1,Value 34,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+786,Case 171,Assign seriousness,Value 15,2011/08/30 09:49:49.000,Variant 4,4,Variant 4,Value 1,Value 34,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+787,Case 171,Take in charge ticket,Value 15,2011/08/30 10:06:35.000,Variant 4,4,Variant 4,Value 1,Value 34,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+788,Case 171,Resolve ticket,Value 13,2011/08/31 07:34:45.000,Variant 4,4,Variant 4,Value 1,Value 34,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+789,Case 171,Closed,Value 5,2011/10/12 14:20:14.000,Variant 4,4,Variant 4,Value 1,Value 34,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+917,Case 199,Take in charge ticket,Value 1,2011/12/13 15:45:50.000,Variant 11,11,Variant 11,Value 1,Value 103,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+918,Case 199,Resolve ticket,Value 1,2011/12/14 10:27:28.000,Variant 11,11,Variant 11,Value 1,Value 103,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+919,Case 199,Closed,Value 5,2012/01/13 15:50:26.000,Variant 11,11,Variant 11,Value 1,Value 103,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+1178,Case 258,Assign seriousness,Value 9,2010/12/02 09:21:12.000,Variant 3,3,Variant 3,Value 1,Value 127,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+1179,Case 258,Take in charge ticket,Value 9,2010/12/02 10:16:17.000,Variant 3,3,Variant 3,Value 1,Value 127,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+1180,Case 258,Wait,Value 9,2010/12/02 10:16:35.000,Variant 3,3,Variant 3,Value 1,Value 127,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+1181,Case 258,Take in charge ticket,Value 2,2010/12/06 16:45:40.000,Variant 3,3,Variant 3,Value 1,Value 127,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+1182,Case 258,Resolve ticket,Value 2,2010/12/06 16:45:48.000,Variant 3,3,Variant 3,Value 1,Value 127,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+1183,Case 258,Closed,Value 5,2011/01/14 16:00:39.000,Variant 3,3,Variant 3,Value 1,Value 127,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+1194,Case 261,Assign seriousness,Value 4,2012/07/30 10:55:26.000,Variant 1,1,Variant 1,Value 1,Value 104,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+1195,Case 261,Take in charge ticket,Value 4,2012/07/30 10:55:48.000,Variant 1,1,Variant 1,Value 1,Value 104,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+1196,Case 261,Resolve ticket,Value 4,2012/07/30 13:14:37.000,Variant 1,1,Variant 1,Value 1,Value 104,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+1197,Case 261,Closed,Value 5,2012/09/01 08:14:21.000,Variant 1,1,Variant 1,Value 1,Value 104,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+1221,Case 267,Assign seriousness,Value 8,2011/05/05 09:41:25.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+1222,Case 267,Take in charge ticket,Value 8,2011/05/05 09:42:08.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+1223,Case 267,Resolve ticket,Value 2,2011/05/05 13:14:58.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+1224,Case 267,Closed,Value 5,2011/06/18 09:50:22.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+1337,Case 292,Assign seriousness,Value 4,2012/08/02 08:46:54.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 8,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+1338,Case 292,Take in charge ticket,Value 4,2012/08/02 08:48:49.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 8,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+1339,Case 292,Resolve ticket,Value 4,2012/08/02 08:49:07.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 8,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+1340,Case 292,Closed,Value 5,2012/09/06 08:50:13.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 8,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+1553,Case 337,Assign seriousness,Value 14,2013/07/15 14:41:17.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 5,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+1554,Case 337,Take in charge ticket,Value 2,2013/07/29 10:18:36.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 5,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+1555,Case 337,Resolve ticket,Value 1,2013/07/31 12:54:35.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 5,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+1556,Case 337,Closed,Value 3,2013/08/15 12:54:58.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 5,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+1732,Case 376,Assign seriousness,Value 2,2010/05/04 10:50:27.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 3
+1733,Case 376,Take in charge ticket,Value 16,2010/05/05 10:35:13.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 3
+1734,Case 376,Wait,Value 16,2010/05/05 10:35:24.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 3
+1735,Case 376,Take in charge ticket,Value 16,2010/05/17 08:11:07.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 3
+1736,Case 376,Resolve ticket,Value 16,2010/05/17 08:11:14.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 3
+1737,Case 376,Closed,Value 5,2010/06/04 11:00:19.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 3
+1742,Case 378,Assign seriousness,Value 1,2012/12/14 15:03:52.000,Variant 1,1,Variant 1,Value 1,Value 157,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+1743,Case 378,Take in charge ticket,Value 2,2013/01/02 09:02:33.000,Variant 1,1,Variant 1,Value 1,Value 157,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+1744,Case 378,Resolve ticket,Value 4,2013/01/23 09:40:04.000,Variant 1,1,Variant 1,Value 1,Value 157,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+1745,Case 378,Closed,Value 3,2013/02/07 09:40:17.000,Variant 1,1,Variant 1,Value 1,Value 157,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+1829,Case 398,Assign seriousness,Value 1,2012/01/25 08:03:28.000,Variant 2,2,Variant 2,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+1830,Case 398,Take in charge ticket,Value 6,2012/01/25 08:39:20.000,Variant 2,2,Variant 2,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+1831,Case 398,Wait,Value 12,2012/02/01 11:39:56.000,Variant 2,2,Variant 2,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+1832,Case 398,Resolve ticket,Value 12,2012/02/28 17:22:35.000,Variant 2,2,Variant 2,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+1833,Case 398,Closed,Value 5,2012/03/14 17:22:45.000,Variant 2,2,Variant 2,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+2030,Case 441,Take in charge ticket,Value 1,2013/09/20 10:16:35.000,Variant 52,52,Variant 52,Value 1,Value 53,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2031,Case 441,Resolve ticket,Value 2,2013/10/08 07:25:49.000,Variant 52,52,Variant 52,Value 1,Value 53,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2032,Case 441,Resolve ticket,Value 2,2013/10/08 07:25:50.000,Variant 52,52,Variant 52,Value 1,Value 53,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2033,Case 441,Closed,Value 3,2013/10/23 07:26:08.000,Variant 52,52,Variant 52,Value 1,Value 53,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2181,Case 473,Assign seriousness,Value 8,2011/01/17 10:10:54.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+2182,Case 473,Take in charge ticket,Value 2,2011/01/20 11:01:42.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+2183,Case 473,Resolve ticket,Value 2,2011/02/28 09:40:39.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+2184,Case 473,Closed,Value 5,2011/03/15 09:40:57.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+2319,Case 504,Assign seriousness,Value 14,2013/04/24 09:05:18.000,Variant 2,2,Variant 2,Value 1,Value 181,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2320,Case 504,Take in charge ticket,Value 2,2013/04/24 09:32:46.000,Variant 2,2,Variant 2,Value 1,Value 181,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2321,Case 504,Wait,Value 4,2013/05/08 12:45:32.000,Variant 2,2,Variant 2,Value 1,Value 181,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2322,Case 504,Resolve ticket,Value 4,2013/05/16 12:28:25.000,Variant 2,2,Variant 2,Value 1,Value 181,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2323,Case 504,Closed,Value 3,2013/05/31 12:28:42.000,Variant 2,2,Variant 2,Value 1,Value 181,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2358,Case 512,Assign seriousness,Value 1,2011/10/06 10:16:56.000,Variant 2,2,Variant 2,Value 1,Value 27,Value 8,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2359,Case 512,Take in charge ticket,Value 13,2011/10/11 13:11:42.000,Variant 2,2,Variant 2,Value 1,Value 27,Value 8,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2360,Case 512,Wait,Value 9,2011/10/13 14:29:37.000,Variant 2,2,Variant 2,Value 1,Value 27,Value 8,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2361,Case 512,Resolve ticket,Value 9,2011/10/17 15:21:14.000,Variant 2,2,Variant 2,Value 1,Value 27,Value 8,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2362,Case 512,Closed,Value 5,2011/11/10 13:20:25.000,Variant 2,2,Variant 2,Value 1,Value 27,Value 8,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2464,Case 533,Assign seriousness,Value 1,2012/07/31 14:33:16.000,Variant 1,1,Variant 1,Value 1,Value 127,Value 6,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+2465,Case 533,Take in charge ticket,Value 13,2012/07/31 15:24:46.000,Variant 1,1,Variant 1,Value 1,Value 127,Value 6,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+2466,Case 533,Resolve ticket,Value 13,2012/08/07 15:52:51.000,Variant 1,1,Variant 1,Value 1,Value 127,Value 6,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+2467,Case 533,Closed,Value 5,2012/09/06 15:53:18.000,Variant 1,1,Variant 1,Value 1,Value 127,Value 6,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+2521,Case 547,Assign seriousness,Value 19,2010/06/30 13:04:35.000,Variant 34,34,Variant 34,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+2522,Case 547,Wait,Value 19,2010/06/30 13:19:19.000,Variant 34,34,Variant 34,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+2523,Case 547,Take in charge ticket,Value 19,2010/07/14 07:27:24.000,Variant 34,34,Variant 34,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+2524,Case 547,Wait,Value 19,2010/07/14 08:07:06.000,Variant 34,34,Variant 34,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+2525,Case 547,Take in charge ticket,Value 12,2010/08/10 12:41:37.000,Variant 34,34,Variant 34,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+2526,Case 547,Resolve ticket,Value 12,2010/08/10 12:42:18.000,Variant 34,34,Variant 34,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+2527,Case 547,Closed,Value 5,2010/08/25 12:42:27.000,Variant 34,34,Variant 34,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+2646,Case 574,Take in charge ticket,Value 4,2011/12/14 09:47:44.000,Variant 11,11,Variant 11,Value 1,Value 9,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+2647,Case 574,Resolve ticket,Value 4,2011/12/14 09:48:59.000,Variant 11,11,Variant 11,Value 1,Value 9,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+2648,Case 574,Closed,Value 5,2012/02/02 09:50:48.000,Variant 11,11,Variant 11,Value 1,Value 9,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+2692,Case 584,Assign seriousness,Value 8,2011/03/10 10:32:42.000,Variant 22,22,Variant 22,Value 1,Value 200,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2693,Case 584,Take in charge ticket,Value 8,2011/03/10 10:33:29.000,Variant 22,22,Variant 22,Value 1,Value 200,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2694,Case 584,Wait,Value 9,2011/03/10 11:16:12.000,Variant 22,22,Variant 22,Value 1,Value 200,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2695,Case 584,Take in charge ticket,Value 9,2011/03/14 08:25:15.000,Variant 22,22,Variant 22,Value 1,Value 200,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2696,Case 584,Wait,Value 9,2011/03/18 13:47:25.000,Variant 22,22,Variant 22,Value 1,Value 200,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2697,Case 584,Take in charge ticket,Value 9,2011/03/25 14:51:06.000,Variant 22,22,Variant 22,Value 1,Value 200,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2698,Case 584,Resolve ticket,Value 9,2011/03/25 14:51:20.000,Variant 22,22,Variant 22,Value 1,Value 200,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2699,Case 584,Closed,Value 5,2011/04/21 08:00:42.000,Variant 22,22,Variant 22,Value 1,Value 200,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2738,Case 594,Assign seriousness,Value 18,2013/11/28 09:39:07.000,Variant 1,1,Variant 1,Value 1,Value 85,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2739,Case 594,Take in charge ticket,Value 18,2013/11/28 10:19:04.000,Variant 1,1,Variant 1,Value 1,Value 85,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2740,Case 594,Resolve ticket,Value 18,2013/12/16 08:58:25.000,Variant 1,1,Variant 1,Value 1,Value 85,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2741,Case 594,Closed,Value 3,2013/12/31 08:58:44.000,Variant 1,1,Variant 1,Value 1,Value 85,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2742,Case 595,Assign seriousness,Value 18,2013/11/25 11:01:44.000,Variant 2,2,Variant 2,Value 1,Value 24,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2743,Case 595,Take in charge ticket,Value 2,2013/11/25 11:59:03.000,Variant 2,2,Variant 2,Value 1,Value 24,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2744,Case 595,Wait,Value 1,2013/11/25 13:47:37.000,Variant 2,2,Variant 2,Value 1,Value 24,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2745,Case 595,Resolve ticket,Value 1,2013/12/19 13:20:46.000,Variant 2,2,Variant 2,Value 1,Value 24,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2746,Case 595,Closed,Value 3,2014/01/03 13:20:58.000,Variant 2,2,Variant 2,Value 1,Value 24,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+2836,Case 616,Assign seriousness,Value 2,2010/03/24 11:24:08.000,Variant 1,1,Variant 1,Value 1,Value 203,Value 3,Value 5,Value 2,Value 2,Value 1,Value 4,Value 1
+2837,Case 616,Take in charge ticket,Value 2,2010/03/24 11:24:16.000,Variant 1,1,Variant 1,Value 1,Value 203,Value 3,Value 5,Value 2,Value 2,Value 1,Value 4,Value 1
+2838,Case 616,Resolve ticket,Value 2,2010/04/14 14:51:34.000,Variant 1,1,Variant 1,Value 1,Value 203,Value 3,Value 5,Value 2,Value 2,Value 1,Value 4,Value 1
+2839,Case 616,Closed,Value 5,2010/04/29 14:51:50.000,Variant 1,1,Variant 1,Value 1,Value 203,Value 3,Value 5,Value 2,Value 2,Value 1,Value 4,Value 1
+2852,Case 620,Assign seriousness,Value 1,2011/12/27 10:15:56.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+2853,Case 620,Take in charge ticket,Value 6,2011/12/27 14:02:18.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+2854,Case 620,Wait,Value 6,2011/12/27 15:02:37.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+2855,Case 620,Take in charge ticket,Value 6,2012/01/12 08:25:56.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+2856,Case 620,Resolve ticket,Value 6,2012/01/12 08:42:41.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+2857,Case 620,Closed,Value 5,2012/02/11 08:43:08.000,Variant 3,3,Variant 3,Value 1,Value 100,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+3063,Case 666,Assign seriousness,Value 1,2011/12/14 11:59:56.000,Variant 17,17,Variant 17,Value 1,Value 210,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3064,Case 666,Assign seriousness,Value 1,2011/12/16 13:53:14.000,Variant 17,17,Variant 17,Value 1,Value 210,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3065,Case 666,Take in charge ticket,Value 1,2011/12/16 13:53:20.000,Variant 17,17,Variant 17,Value 1,Value 210,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3066,Case 666,Wait,Value 2,2011/12/19 16:59:36.000,Variant 17,17,Variant 17,Value 1,Value 210,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3067,Case 666,Resolve ticket,Value 2,2011/12/20 10:14:46.000,Variant 17,17,Variant 17,Value 1,Value 210,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3068,Case 666,Closed,Value 5,2012/01/15 02:02:28.000,Variant 17,17,Variant 17,Value 1,Value 210,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3160,Case 687,Assign seriousness,Value 2,2011/11/14 10:02:37.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+3161,Case 687,Take in charge ticket,Value 2,2011/11/14 10:03:08.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+3162,Case 687,Resolve ticket,Value 13,2011/11/15 09:10:16.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+3163,Case 687,Closed,Value 5,2011/12/22 10:10:36.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+3249,Case 707,Assign seriousness,Value 2,2010/02/22 14:02:29.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 3,Value 4,Value 1,Value 2,Value 1,Value 3,Value 1
+3250,Case 707,Take in charge ticket,Value 2,2010/02/22 14:02:39.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 3,Value 4,Value 1,Value 2,Value 1,Value 3,Value 1
+3251,Case 707,Resolve ticket,Value 2,2010/03/09 16:17:19.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 3,Value 4,Value 1,Value 2,Value 1,Value 3,Value 1
+3252,Case 707,Closed,Value 5,2010/03/25 14:10:31.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 3,Value 4,Value 1,Value 2,Value 1,Value 3,Value 1
+3264,Case 710,Assign seriousness,Value 2,2010/04/20 13:31:56.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3265,Case 710,Take in charge ticket,Value 2,2010/04/20 14:19:41.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3266,Case 710,Resolve ticket,Value 2,2010/04/20 14:19:45.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3267,Case 710,Closed,Value 5,2010/05/21 13:40:28.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3297,Case 717,Assign seriousness,Value 1,2012/05/02 13:08:47.000,Variant 1,1,Variant 1,Value 1,Value 37,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+3298,Case 717,Take in charge ticket,Value 9,2012/05/03 07:59:49.000,Variant 1,1,Variant 1,Value 1,Value 37,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+3299,Case 717,Resolve ticket,Value 9,2012/05/03 10:35:42.000,Variant 1,1,Variant 1,Value 1,Value 37,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+3300,Case 717,Closed,Value 5,2012/06/09 13:10:47.000,Variant 1,1,Variant 1,Value 1,Value 37,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+3465,Case 753,Assign seriousness,Value 4,2011/11/23 11:31:14.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 8,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+3466,Case 753,Take in charge ticket,Value 4,2011/11/23 11:32:01.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 8,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+3467,Case 753,Resolve ticket,Value 4,2011/11/23 13:13:50.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 8,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+3468,Case 753,Closed,Value 5,2011/12/28 11:40:21.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 8,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+3469,Case 754,Assign seriousness,Value 1,2011/12/14 13:18:21.000,Variant 3,3,Variant 3,Value 1,Value 22,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3470,Case 754,Take in charge ticket,Value 13,2011/12/16 09:08:43.000,Variant 3,3,Variant 3,Value 1,Value 22,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3471,Case 754,Wait,Value 13,2011/12/16 09:38:42.000,Variant 3,3,Variant 3,Value 1,Value 22,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3472,Case 754,Take in charge ticket,Value 13,2011/12/23 15:56:44.000,Variant 3,3,Variant 3,Value 1,Value 22,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3473,Case 754,Resolve ticket,Value 13,2012/01/11 14:45:19.000,Variant 3,3,Variant 3,Value 1,Value 22,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3474,Case 754,Closed,Value 5,2012/01/26 14:45:30.000,Variant 3,3,Variant 3,Value 1,Value 22,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3720,Case 807,Assign seriousness,Value 1,2013/02/01 11:07:48.000,Variant 40,40,Variant 40,Value 1,Value 231,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3721,Case 807,Require upgrade,Value 4,2013/02/19 08:46:03.000,Variant 40,40,Variant 40,Value 1,Value 231,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3722,Case 807,Resolve ticket,Value 4,2013/02/19 10:33:21.000,Variant 40,40,Variant 40,Value 1,Value 231,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3723,Case 807,Closed,Value 3,2013/03/06 10:33:27.000,Variant 40,40,Variant 40,Value 1,Value 231,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3828,Case 831,Assign seriousness,Value 14,2013/06/18 16:09:06.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3829,Case 831,Take in charge ticket,Value 9,2013/06/19 15:18:47.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3830,Case 831,Wait,Value 9,2013/06/25 12:23:10.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3831,Case 831,Resolve ticket,Value 9,2013/07/09 13:27:03.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+3832,Case 831,Closed,Value 3,2013/07/24 13:27:18.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4012,Case 873,Assign seriousness,Value 2,2010/11/08 13:54:27.000,Variant 1,1,Variant 1,Value 1,Value 241,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+4013,Case 873,Take in charge ticket,Value 2,2010/11/08 13:56:37.000,Variant 1,1,Variant 1,Value 1,Value 241,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+4014,Case 873,Resolve ticket,Value 2,2010/11/08 13:59:37.000,Variant 1,1,Variant 1,Value 1,Value 241,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+4015,Case 873,Closed,Value 5,2011/01/06 14:01:15.000,Variant 1,1,Variant 1,Value 1,Value 241,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+4072,Case 886,Assign seriousness,Value 13,2012/06/11 12:58:53.000,Variant 1,1,Variant 1,Value 1,Value 146,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+4073,Case 886,Take in charge ticket,Value 13,2012/06/11 12:59:02.000,Variant 1,1,Variant 1,Value 1,Value 146,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+4074,Case 886,Resolve ticket,Value 13,2012/06/13 07:47:21.000,Variant 1,1,Variant 1,Value 1,Value 146,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+4075,Case 886,Closed,Value 5,2012/07/19 13:00:23.000,Variant 1,1,Variant 1,Value 1,Value 146,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+4205,Case 913,Assign seriousness,Value 9,2010/11/11 13:50:41.000,Variant 1,1,Variant 1,Value 1,Value 88,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+4206,Case 913,Take in charge ticket,Value 9,2010/11/11 13:56:18.000,Variant 1,1,Variant 1,Value 1,Value 88,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+4207,Case 913,Resolve ticket,Value 9,2010/11/12 15:39:09.000,Variant 1,1,Variant 1,Value 1,Value 88,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+4208,Case 913,Closed,Value 5,2010/12/25 14:00:23.000,Variant 1,1,Variant 1,Value 1,Value 88,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+4217,Case 916,Assign seriousness,Value 7,2011/07/05 09:07:25.000,Variant 33,33,Variant 33,Value 1,Value 125,Value 12,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+4218,Case 916,Take in charge ticket,Value 7,2011/07/05 09:07:41.000,Variant 33,33,Variant 33,Value 1,Value 125,Value 12,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+4219,Case 916,Resolve ticket,Value 7,2011/07/05 09:07:49.000,Variant 33,33,Variant 33,Value 1,Value 125,Value 12,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+4220,Case 916,Closed,Value 5,2011/08/07 09:10:45.000,Variant 33,33,Variant 33,Value 1,Value 125,Value 12,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+4221,Case 916,Closed,Value 5,2011/08/07 09:10:45.000,Variant 33,33,Variant 33,Value 1,Value 125,Value 12,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+4388,Case 951,Assign seriousness,Value 1,2012/11/29 08:10:51.000,Variant 2,2,Variant 2,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4389,Case 951,Take in charge ticket,Value 16,2012/12/05 08:44:59.000,Variant 2,2,Variant 2,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4390,Case 951,Wait,Value 16,2012/12/05 08:45:10.000,Variant 2,2,Variant 2,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4391,Case 951,Resolve ticket,Value 16,2012/12/19 10:09:01.000,Variant 2,2,Variant 2,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4392,Case 951,Closed,Value 3,2013/01/03 10:09:18.000,Variant 2,2,Variant 2,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4414,Case 957,Assign seriousness,Value 13,2011/07/06 15:06:20.000,Variant 1,1,Variant 1,Value 1,Value 126,Value 17,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4415,Case 957,Take in charge ticket,Value 13,2011/07/06 15:06:38.000,Variant 1,1,Variant 1,Value 1,Value 126,Value 17,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4416,Case 957,Resolve ticket,Value 13,2011/07/06 15:06:53.000,Variant 1,1,Variant 1,Value 1,Value 126,Value 17,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4417,Case 957,Closed,Value 5,2011/08/06 15:10:23.000,Variant 1,1,Variant 1,Value 1,Value 126,Value 17,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4668,Case 1012,Assign seriousness,Value 2,2010/05/25 15:14:28.000,Variant 1,1,Variant 1,Value 1,Value 182,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4669,Case 1012,Take in charge ticket,Value 2,2010/05/28 15:38:09.000,Variant 1,1,Variant 1,Value 1,Value 182,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4670,Case 1012,Resolve ticket,Value 2,2010/05/28 15:38:45.000,Variant 1,1,Variant 1,Value 1,Value 182,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4671,Case 1012,Closed,Value 5,2010/06/26 15:20:26.000,Variant 1,1,Variant 1,Value 1,Value 182,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4747,Case 1029,Assign seriousness,Value 1,2012/05/09 09:25:28.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4748,Case 1029,Take in charge ticket,Value 10,2012/05/09 13:22:38.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4749,Case 1029,Resolve ticket,Value 1,2012/05/09 13:40:52.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4750,Case 1029,Closed,Value 5,2012/06/09 09:30:28.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+4819,Case 1044,Assign seriousness,Value 2,2010/05/13 14:45:13.000,Variant 20,20,Variant 20,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4820,Case 1044,Take in charge ticket,Value 16,2010/05/17 16:21:00.000,Variant 20,20,Variant 20,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4821,Case 1044,Resolve ticket,Value 16,2010/05/17 17:10:24.000,Variant 20,20,Variant 20,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4822,Case 1044,Take in charge ticket,Value 16,2010/05/18 08:21:15.000,Variant 20,20,Variant 20,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4823,Case 1044,Wait,Value 16,2010/05/18 08:44:56.000,Variant 20,20,Variant 20,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4824,Case 1044,Take in charge ticket,Value 16,2010/05/18 09:26:17.000,Variant 20,20,Variant 20,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4825,Case 1044,Resolve ticket,Value 16,2010/05/18 09:28:09.000,Variant 20,20,Variant 20,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+4826,Case 1044,Closed,Value 5,2010/06/26 14:50:32.000,Variant 20,20,Variant 20,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+5335,Case 1151,Assign seriousness,Value 6,2010/05/24 16:34:26.000,Variant 1,1,Variant 1,Value 1,Value 34,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+5336,Case 1151,Take in charge ticket,Value 15,2010/06/29 16:11:34.000,Variant 1,1,Variant 1,Value 1,Value 34,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+5337,Case 1151,Resolve ticket,Value 15,2010/06/29 16:18:05.000,Variant 1,1,Variant 1,Value 1,Value 34,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+5338,Case 1151,Closed,Value 5,2010/07/14 16:18:25.000,Variant 1,1,Variant 1,Value 1,Value 34,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+5360,Case 1156,Assign seriousness,Value 14,2013/11/04 14:54:01.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+5361,Case 1156,Take in charge ticket,Value 2,2013/11/20 08:38:45.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+5362,Case 1156,Wait,Value 2,2013/11/20 09:10:39.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+5363,Case 1156,Resolve ticket,Value 2,2013/12/19 10:02:24.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+5364,Case 1156,Closed,Value 3,2014/01/03 10:02:38.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+5939,Case 1280,Assign seriousness,Value 7,2010/09/03 07:48:05.000,Variant 1,1,Variant 1,Value 1,Value 8,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+5940,Case 1280,Take in charge ticket,Value 16,2010/09/09 11:59:32.000,Variant 1,1,Variant 1,Value 1,Value 8,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+5941,Case 1280,Resolve ticket,Value 16,2010/09/09 12:08:56.000,Variant 1,1,Variant 1,Value 1,Value 8,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+5942,Case 1280,Closed,Value 5,2010/10/06 07:50:29.000,Variant 1,1,Variant 1,Value 1,Value 8,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+6127,Case 1321,Assign seriousness,Value 1,2012/04/18 08:55:20.000,Variant 2,2,Variant 2,Value 1,Value 116,Value 6,Value 1,Value 1,Value 1,Value 1,Value 1,Value 1
+6128,Case 1321,Take in charge ticket,Value 13,2012/04/18 12:36:14.000,Variant 2,2,Variant 2,Value 1,Value 116,Value 6,Value 1,Value 1,Value 1,Value 1,Value 1,Value 1
+6129,Case 1321,Wait,Value 13,2012/04/23 07:20:19.000,Variant 2,2,Variant 2,Value 1,Value 116,Value 6,Value 1,Value 1,Value 1,Value 1,Value 1,Value 1
+6130,Case 1321,Resolve ticket,Value 13,2012/05/11 08:51:18.000,Variant 2,2,Variant 2,Value 1,Value 116,Value 6,Value 1,Value 1,Value 1,Value 1,Value 1,Value 1
+6131,Case 1321,Closed,Value 5,2012/06/10 10:40:43.000,Variant 2,2,Variant 2,Value 1,Value 116,Value 6,Value 1,Value 1,Value 1,Value 1,Value 1,Value 1
+6151,Case 1326,Assign seriousness,Value 1,2011/10/24 10:09:39.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+6152,Case 1326,Take in charge ticket,Value 1,2011/10/24 10:09:49.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+6153,Case 1326,Resolve ticket,Value 1,2011/10/28 13:16:38.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+6154,Case 1326,Closed,Value 5,2011/12/01 11:10:29.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+6177,Case 1332,Assign seriousness,Value 1,2012/09/03 16:10:07.000,Variant 1,1,Variant 1,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6178,Case 1332,Take in charge ticket,Value 3,2012/09/05 07:13:32.000,Variant 1,1,Variant 1,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6179,Case 1332,Resolve ticket,Value 2,2012/09/20 13:22:50.000,Variant 1,1,Variant 1,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6180,Case 1332,Closed,Value 3,2012/10/05 13:23:09.000,Variant 1,1,Variant 1,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6348,Case 1368,Assign seriousness,Value 4,2012/02/29 13:57:19.000,Variant 5,5,Variant 5,Value 1,Value 138,Value 14,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+6349,Case 1368,Resolve ticket,Value 4,2012/03/02 10:36:18.000,Variant 5,5,Variant 5,Value 1,Value 138,Value 14,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+6350,Case 1368,Closed,Value 5,2012/04/07 13:00:38.000,Variant 5,5,Variant 5,Value 1,Value 138,Value 14,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+6410,Case 1381,Assign seriousness,Value 8,2011/01/04 10:21:33.000,Variant 13,13,Variant 13,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6411,Case 1381,Assign seriousness,Value 2,2011/01/11 15:15:48.000,Variant 13,13,Variant 13,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6412,Case 1381,Take in charge ticket,Value 2,2011/01/11 15:15:59.000,Variant 13,13,Variant 13,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6413,Case 1381,Wait,Value 14,2011/01/18 15:56:39.000,Variant 13,13,Variant 13,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6414,Case 1381,Take in charge ticket,Value 14,2011/01/31 14:11:27.000,Variant 13,13,Variant 13,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6415,Case 1381,Resolve ticket,Value 14,2011/01/31 14:11:42.000,Variant 13,13,Variant 13,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6416,Case 1381,Closed,Value 5,2011/02/15 14:11:56.000,Variant 13,13,Variant 13,Value 1,Value 86,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6417,Case 1382,Assign seriousness,Value 9,2010/10/22 12:44:40.000,Variant 1,1,Variant 1,Value 1,Value 227,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6418,Case 1382,Take in charge ticket,Value 9,2010/10/25 15:07:52.000,Variant 1,1,Variant 1,Value 1,Value 227,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6419,Case 1382,Resolve ticket,Value 9,2010/10/25 15:08:26.000,Variant 1,1,Variant 1,Value 1,Value 227,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6420,Case 1382,Closed,Value 5,2010/11/23 13:50:20.000,Variant 1,1,Variant 1,Value 1,Value 227,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6500,Case 1399,Assign seriousness,Value 2,2010/02/19 09:28:22.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 3,Value 4,Value 1,Value 2,Value 1,Value 3,Value 3
+6501,Case 1399,Take in charge ticket,Value 2,2010/02/19 09:28:30.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 3,Value 4,Value 1,Value 2,Value 1,Value 3,Value 3
+6502,Case 1399,Resolve ticket,Value 2,2010/02/19 09:28:36.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 3,Value 4,Value 1,Value 2,Value 1,Value 3,Value 3
+6503,Case 1399,Closed,Value 5,2010/03/24 09:30:37.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 3,Value 4,Value 1,Value 2,Value 1,Value 3,Value 3
+6504,Case 1400,Assign seriousness,Value 2,2010/02/02 09:57:11.000,Variant 1,1,Variant 1,Value 1,Value 108,Value 3,Value 2,Value 2,Value 2,Value 1,Value 3,Value 1
+6505,Case 1400,Take in charge ticket,Value 2,2010/02/02 09:57:23.000,Variant 1,1,Variant 1,Value 1,Value 108,Value 3,Value 2,Value 2,Value 2,Value 1,Value 3,Value 1
+6506,Case 1400,Resolve ticket,Value 2,2010/02/02 09:57:29.000,Variant 1,1,Variant 1,Value 1,Value 108,Value 3,Value 2,Value 2,Value 2,Value 1,Value 3,Value 1
+6507,Case 1400,Closed,Value 5,2010/03/18 10:00:48.000,Variant 1,1,Variant 1,Value 1,Value 108,Value 3,Value 2,Value 2,Value 2,Value 1,Value 3,Value 1
+6969,Case 1496,Assign seriousness,Value 8,2011/06/21 09:14:38.000,Variant 83,83,Variant 83,Value 1,Value 218,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+6970,Case 1496,Assign seriousness,Value 8,2011/06/21 09:14:50.000,Variant 83,83,Variant 83,Value 1,Value 218,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+6971,Case 1496,Take in charge ticket,Value 2,2011/06/22 13:12:41.000,Variant 83,83,Variant 83,Value 1,Value 218,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+6972,Case 1496,Resolve ticket,Value 2,2011/06/28 13:39:55.000,Variant 83,83,Variant 83,Value 1,Value 218,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+6973,Case 1496,Take in charge ticket,Value 2,2011/06/28 14:42:09.000,Variant 83,83,Variant 83,Value 1,Value 218,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+6974,Case 1496,Resolve ticket,Value 2,2011/06/29 07:26:40.000,Variant 83,83,Variant 83,Value 1,Value 218,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+6975,Case 1496,Closed,Value 5,2011/07/22 09:20:43.000,Variant 83,83,Variant 83,Value 1,Value 218,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+6998,Case 1500,Assign seriousness,Value 4,2012/08/09 15:16:14.000,Variant 8,8,Variant 8,Value 1,Value 63,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+6999,Case 1500,Resolve ticket,Value 9,2012/09/10 15:35:07.000,Variant 8,8,Variant 8,Value 1,Value 63,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7000,Case 1500,Resolve ticket,Value 9,2012/09/10 15:35:07.000,Variant 8,8,Variant 8,Value 1,Value 63,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7001,Case 1500,Closed,Value 3,2012/09/25 15:35:24.000,Variant 8,8,Variant 8,Value 1,Value 63,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7006,Case 1502,Assign seriousness,Value 8,2011/05/25 13:16:25.000,Variant 136,136,Variant 136,Value 1,Value 49,Value 6,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7007,Case 1502,Take in charge ticket,Value 8,2011/05/25 13:16:48.000,Variant 136,136,Variant 136,Value 1,Value 49,Value 6,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7008,Case 1502,Wait,Value 8,2011/05/25 13:23:02.000,Variant 136,136,Variant 136,Value 1,Value 49,Value 6,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7009,Case 1502,Take in charge ticket,Value 2,2011/05/31 15:39:13.000,Variant 136,136,Variant 136,Value 1,Value 49,Value 6,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7010,Case 1502,Wait,Value 9,2011/06/08 08:17:26.000,Variant 136,136,Variant 136,Value 1,Value 49,Value 6,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7011,Case 1502,Take in charge ticket,Value 9,2011/06/24 10:20:31.000,Variant 136,136,Variant 136,Value 1,Value 49,Value 6,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7012,Case 1502,Resolve ticket,Value 9,2011/06/24 10:22:03.000,Variant 136,136,Variant 136,Value 1,Value 49,Value 6,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7013,Case 1502,Take in charge ticket,Value 9,2011/06/24 10:42:12.000,Variant 136,136,Variant 136,Value 1,Value 49,Value 6,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7014,Case 1502,Resolve ticket,Value 9,2011/06/24 15:27:11.000,Variant 136,136,Variant 136,Value 1,Value 49,Value 6,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7015,Case 1502,Closed,Value 5,2011/07/09 15:27:29.000,Variant 136,136,Variant 136,Value 1,Value 49,Value 6,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7119,Case 1525,Assign seriousness,Value 1,2011/09/15 15:02:26.000,Variant 5,5,Variant 5,Value 1,Value 6,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+7120,Case 1525,Resolve ticket,Value 2,2011/09/15 15:04:53.000,Variant 5,5,Variant 5,Value 1,Value 6,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+7121,Case 1525,Closed,Value 5,2011/11/04 16:10:45.000,Variant 5,5,Variant 5,Value 1,Value 6,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+7144,Case 1529,Assign seriousness,Value 13,2011/07/26 15:29:54.000,Variant 1,1,Variant 1,Value 1,Value 58,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+7145,Case 1529,Take in charge ticket,Value 2,2011/07/27 07:41:16.000,Variant 1,1,Variant 1,Value 1,Value 58,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+7146,Case 1529,Resolve ticket,Value 2,2011/07/27 10:33:26.000,Variant 1,1,Variant 1,Value 1,Value 58,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+7147,Case 1529,Closed,Value 5,2011/08/26 15:32:16.000,Variant 1,1,Variant 1,Value 1,Value 58,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+7463,Case 1596,Assign seriousness,Value 13,2012/03/15 15:39:13.000,Variant 1,1,Variant 1,Value 1,Value 252,Value 12,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+7464,Case 1596,Take in charge ticket,Value 13,2012/03/16 16:28:29.000,Variant 1,1,Variant 1,Value 1,Value 252,Value 12,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+7465,Case 1596,Resolve ticket,Value 13,2012/03/19 13:26:56.000,Variant 1,1,Variant 1,Value 1,Value 252,Value 12,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+7466,Case 1596,Closed,Value 5,2012/05/06 14:40:39.000,Variant 1,1,Variant 1,Value 1,Value 252,Value 12,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+7484,Case 1601,Assign seriousness,Value 1,2012/04/02 16:04:30.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+7485,Case 1601,Take in charge ticket,Value 12,2012/04/05 07:30:00.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+7486,Case 1601,Resolve ticket,Value 12,2012/04/05 16:03:45.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+7487,Case 1601,Closed,Value 5,2012/05/16 16:01:09.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+7558,Case 1617,Assign seriousness,Value 9,2010/07/29 07:05:23.000,Variant 24,24,Variant 24,Value 1,Value 35,Value 3,Value 1,Value 2,Value 3,Value 2,Value 1,Value 1
+7559,Case 1617,Wait,Value 6,2010/07/29 08:53:20.000,Variant 24,24,Variant 24,Value 1,Value 35,Value 3,Value 1,Value 2,Value 3,Value 2,Value 1,Value 1
+7560,Case 1617,Take in charge ticket,Value 12,2010/09/01 15:17:42.000,Variant 24,24,Variant 24,Value 1,Value 35,Value 3,Value 1,Value 2,Value 3,Value 2,Value 1,Value 1
+7561,Case 1617,Resolve ticket,Value 12,2010/09/01 15:17:50.000,Variant 24,24,Variant 24,Value 1,Value 35,Value 3,Value 1,Value 2,Value 3,Value 2,Value 1,Value 1
+7562,Case 1617,Closed,Value 5,2010/09/16 15:18:11.000,Variant 24,24,Variant 24,Value 1,Value 35,Value 3,Value 1,Value 2,Value 3,Value 2,Value 1,Value 1
+7598,Case 1625,Assign seriousness,Value 2,2010/12/01 14:30:44.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+7599,Case 1625,Take in charge ticket,Value 2,2010/12/01 14:34:08.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+7600,Case 1625,Resolve ticket,Value 2,2010/12/02 10:37:02.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+7601,Case 1625,Closed,Value 5,2011/01/04 14:40:19.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+7628,Case 1632,Assign seriousness,Value 1,2012/03/21 11:22:01.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 4
+7629,Case 1632,Take in charge ticket,Value 17,2012/03/21 14:09:40.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 4
+7630,Case 1632,Resolve ticket,Value 17,2012/03/22 14:31:13.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 4
+7631,Case 1632,Closed,Value 5,2012/05/19 10:30:37.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 4
+7678,Case 1643,Assign seriousness,Value 9,2011/08/19 07:17:30.000,Variant 25,25,Variant 25,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7679,Case 1643,Wait,Value 9,2011/08/19 07:31:26.000,Variant 25,25,Variant 25,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7680,Case 1643,Resolve ticket,Value 9,2011/08/26 14:37:31.000,Variant 25,25,Variant 25,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7681,Case 1643,Closed,Value 5,2011/09/24 14:40:31.000,Variant 25,25,Variant 25,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7705,Case 1650,Assign seriousness,Value 9,2013/03/08 17:21:08.000,Variant 88,88,Variant 88,Value 1,Value 22,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7706,Case 1650,Create SW anomaly,Value 2,2013/03/25 11:13:38.000,Variant 88,88,Variant 88,Value 1,Value 22,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7707,Case 1650,Create SW anomaly,Value 2,2013/03/25 11:13:38.000,Variant 88,88,Variant 88,Value 1,Value 22,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7708,Case 1650,Resolve SW anomaly,Value 22,2013/04/03 14:54:23.000,Variant 88,88,Variant 88,Value 1,Value 22,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7709,Case 1650,Resolve SW anomaly,Value 22,2013/04/03 14:54:26.000,Variant 88,88,Variant 88,Value 1,Value 22,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7710,Case 1650,Require upgrade,Value 2,2013/04/03 14:57:50.000,Variant 88,88,Variant 88,Value 1,Value 22,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7711,Case 1650,Resolve ticket,Value 1,2013/04/03 15:38:24.000,Variant 88,88,Variant 88,Value 1,Value 22,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7712,Case 1650,Closed,Value 3,2013/04/18 15:38:44.000,Variant 88,88,Variant 88,Value 1,Value 22,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+7765,Case 1663,Assign seriousness,Value 1,2012/12/21 08:03:25.000,Variant 5,5,Variant 5,Value 1,Value 9,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+7766,Case 1663,Resolve ticket,Value 13,2013/01/08 14:27:44.000,Variant 5,5,Variant 5,Value 1,Value 9,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+7767,Case 1663,Closed,Value 3,2013/01/23 14:27:56.000,Variant 5,5,Variant 5,Value 1,Value 9,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+8035,Case 1720,Assign seriousness,Value 14,2010/07/07 14:19:17.000,Variant 3,3,Variant 3,Value 1,Value 311,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+8036,Case 1720,Take in charge ticket,Value 19,2010/07/21 07:49:03.000,Variant 3,3,Variant 3,Value 1,Value 311,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+8037,Case 1720,Wait,Value 19,2010/07/21 07:50:35.000,Variant 3,3,Variant 3,Value 1,Value 311,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+8038,Case 1720,Take in charge ticket,Value 19,2010/07/27 07:16:30.000,Variant 3,3,Variant 3,Value 1,Value 311,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+8039,Case 1720,Resolve ticket,Value 19,2010/07/27 07:16:38.000,Variant 3,3,Variant 3,Value 1,Value 311,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+8040,Case 1720,Closed,Value 5,2010/08/11 07:16:51.000,Variant 3,3,Variant 3,Value 1,Value 311,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+8266,Case 1768,Assign seriousness,Value 2,2010/01/22 08:17:33.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 9,Value 4,Value 2,Value 2,Value 2,Value 3,Value 2
+8267,Case 1768,Take in charge ticket,Value 11,2010/01/22 08:46:15.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 9,Value 4,Value 2,Value 2,Value 2,Value 3,Value 2
+8268,Case 1768,Resolve ticket,Value 11,2010/01/25 13:23:52.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 9,Value 4,Value 2,Value 2,Value 2,Value 3,Value 2
+8269,Case 1768,Closed,Value 5,2010/03/14 10:38:11.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 9,Value 4,Value 2,Value 2,Value 2,Value 3,Value 2
+8420,Case 1802,Assign seriousness,Value 4,2012/02/24 09:12:34.000,Variant 1,1,Variant 1,Value 1,Value 184,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+8421,Case 1802,Take in charge ticket,Value 4,2012/02/24 09:15:32.000,Variant 1,1,Variant 1,Value 1,Value 184,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+8422,Case 1802,Resolve ticket,Value 9,2012/02/27 16:27:15.000,Variant 1,1,Variant 1,Value 1,Value 184,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+8423,Case 1802,Closed,Value 5,2012/04/04 08:20:28.000,Variant 1,1,Variant 1,Value 1,Value 184,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+8479,Case 1815,Assign seriousness,Value 4,2012/08/07 08:54:51.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 19,Value 1,Value 2,Value 1,Value 1,Value 1,Value 1
+8480,Case 1815,Take in charge ticket,Value 4,2012/08/08 08:01:14.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 19,Value 1,Value 2,Value 1,Value 1,Value 1,Value 1
+8481,Case 1815,Resolve ticket,Value 4,2012/08/09 08:04:18.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 19,Value 1,Value 2,Value 1,Value 1,Value 1,Value 1
+8482,Case 1815,Closed,Value 5,2012/09/08 09:00:32.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 19,Value 1,Value 2,Value 1,Value 1,Value 1,Value 1
+8531,Case 1823,Assign seriousness,Value 14,2013/08/26 15:05:52.000,Variant 2,2,Variant 2,Value 1,Value 123,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+8532,Case 1823,Take in charge ticket,Value 9,2013/09/10 08:50:37.000,Variant 2,2,Variant 2,Value 1,Value 123,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+8533,Case 1823,Wait,Value 9,2013/09/12 07:44:38.000,Variant 2,2,Variant 2,Value 1,Value 123,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+8534,Case 1823,Resolve ticket,Value 9,2013/09/12 12:47:35.000,Variant 2,2,Variant 2,Value 1,Value 123,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+8535,Case 1823,Closed,Value 3,2013/09/27 12:47:50.000,Variant 2,2,Variant 2,Value 1,Value 123,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+8591,Case 1836,Assign seriousness,Value 1,2011/12/14 09:08:02.000,Variant 1,1,Variant 1,Value 1,Value 208,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+8592,Case 1836,Take in charge ticket,Value 9,2011/12/16 15:30:54.000,Variant 1,1,Variant 1,Value 1,Value 208,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+8593,Case 1836,Resolve ticket,Value 9,2011/12/19 14:09:13.000,Variant 1,1,Variant 1,Value 1,Value 208,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+8594,Case 1836,Closed,Value 5,2012/01/27 09:11:21.000,Variant 1,1,Variant 1,Value 1,Value 208,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+8647,Case 1848,Assign seriousness,Value 14,2013/07/04 07:11:04.000,Variant 2,2,Variant 2,Value 1,Value 32,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+8648,Case 1848,Take in charge ticket,Value 2,2013/07/04 07:25:35.000,Variant 2,2,Variant 2,Value 1,Value 32,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+8649,Case 1848,Wait,Value 2,2013/07/05 12:16:58.000,Variant 2,2,Variant 2,Value 1,Value 32,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+8650,Case 1848,Resolve ticket,Value 2,2013/07/31 08:44:53.000,Variant 2,2,Variant 2,Value 1,Value 32,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+8651,Case 1848,Closed,Value 3,2013/08/15 08:45:02.000,Variant 2,2,Variant 2,Value 1,Value 32,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+8806,Case 1881,Assign seriousness,Value 9,2010/07/08 07:59:13.000,Variant 1,1,Variant 1,Value 1,Value 135,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+8807,Case 1881,Take in charge ticket,Value 2,2010/07/13 15:05:39.000,Variant 1,1,Variant 1,Value 1,Value 135,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+8808,Case 1881,Resolve ticket,Value 2,2010/07/13 15:06:33.000,Variant 1,1,Variant 1,Value 1,Value 135,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+8809,Case 1881,Closed,Value 5,2010/08/10 08:00:20.000,Variant 1,1,Variant 1,Value 1,Value 135,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+8863,Case 1895,Assign seriousness,Value 13,2011/07/05 15:20:57.000,Variant 1,1,Variant 1,Value 1,Value 187,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+8864,Case 1895,Take in charge ticket,Value 2,2011/07/12 09:36:57.000,Variant 1,1,Variant 1,Value 1,Value 187,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+8865,Case 1895,Resolve ticket,Value 2,2011/07/12 09:37:59.000,Variant 1,1,Variant 1,Value 1,Value 187,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+8866,Case 1895,Closed,Value 5,2011/08/26 15:31:01.000,Variant 1,1,Variant 1,Value 1,Value 187,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+9375,Case 2007,Assign seriousness,Value 1,2013/02/07 15:48:50.000,Variant 46,46,Variant 46,Value 1,Value 242,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9376,Case 2007,Take in charge ticket,Value 2,2013/02/25 11:16:00.000,Variant 46,46,Variant 46,Value 1,Value 242,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9377,Case 2007,Require upgrade,Value 4,2013/02/25 15:19:46.000,Variant 46,46,Variant 46,Value 1,Value 242,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9378,Case 2007,Resolve ticket,Value 10,2013/02/27 11:01:43.000,Variant 46,46,Variant 46,Value 1,Value 242,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9379,Case 2007,Resolve ticket,Value 10,2013/02/27 11:01:44.000,Variant 46,46,Variant 46,Value 1,Value 242,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9380,Case 2007,Closed,Value 3,2013/03/14 11:02:00.000,Variant 46,46,Variant 46,Value 1,Value 242,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9381,Case 2008,Assign seriousness,Value 1,2011/11/03 10:27:56.000,Variant 1,1,Variant 1,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+9382,Case 2008,Take in charge ticket,Value 12,2011/11/04 10:57:29.000,Variant 1,1,Variant 1,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+9383,Case 2008,Resolve ticket,Value 12,2011/11/04 10:58:05.000,Variant 1,1,Variant 1,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+9384,Case 2008,Closed,Value 5,2011/12/17 10:30:23.000,Variant 1,1,Variant 1,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+9505,Case 2034,Assign seriousness,Value 1,2012/01/23 10:22:19.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 4,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+9506,Case 2034,Take in charge ticket,Value 1,2012/01/23 10:22:38.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 4,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+9507,Case 2034,Resolve ticket,Value 13,2012/01/25 10:52:04.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 4,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+9508,Case 2034,Closed,Value 5,2012/03/01 10:30:51.000,Variant 1,1,Variant 1,Value 1,Value 143,Value 4,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+9634,Case 2062,Assign seriousness,Value 1,2013/08/28 15:58:23.000,Variant 2,2,Variant 2,Value 1,Value 58,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+9635,Case 2062,Take in charge ticket,Value 1,2013/08/28 15:58:44.000,Variant 2,2,Variant 2,Value 1,Value 58,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+9636,Case 2062,Wait,Value 1,2013/09/16 14:08:25.000,Variant 2,2,Variant 2,Value 1,Value 58,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+9637,Case 2062,Resolve ticket,Value 1,2013/10/07 07:34:22.000,Variant 2,2,Variant 2,Value 1,Value 58,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+9638,Case 2062,Closed,Value 3,2013/10/22 07:34:36.000,Variant 2,2,Variant 2,Value 1,Value 58,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+9685,Case 2073,Assign seriousness,Value 1,2012/05/11 10:14:50.000,Variant 2,2,Variant 2,Value 1,Value 64,Value 6,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9686,Case 2073,Take in charge ticket,Value 13,2012/05/11 15:50:01.000,Variant 2,2,Variant 2,Value 1,Value 64,Value 6,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9687,Case 2073,Wait,Value 13,2012/05/25 08:09:20.000,Variant 2,2,Variant 2,Value 1,Value 64,Value 6,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9688,Case 2073,Resolve ticket,Value 13,2012/05/29 10:20:33.000,Variant 2,2,Variant 2,Value 1,Value 64,Value 6,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9689,Case 2073,Closed,Value 5,2012/06/15 13:40:51.000,Variant 2,2,Variant 2,Value 1,Value 64,Value 6,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9736,Case 2083,Assign seriousness,Value 1,2012/12/04 15:33:24.000,Variant 1,1,Variant 1,Value 1,Value 13,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+9737,Case 2083,Take in charge ticket,Value 2,2012/12/05 08:10:29.000,Variant 1,1,Variant 1,Value 1,Value 13,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+9738,Case 2083,Resolve ticket,Value 4,2013/01/09 10:16:39.000,Variant 1,1,Variant 1,Value 1,Value 13,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+9739,Case 2083,Closed,Value 3,2013/01/24 10:16:58.000,Variant 1,1,Variant 1,Value 1,Value 13,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+9740,Case 2084,Assign seriousness,Value 13,2012/06/11 13:00:07.000,Variant 1,1,Variant 1,Value 1,Value 174,Value 18,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+9741,Case 2084,Take in charge ticket,Value 13,2012/06/11 13:00:26.000,Variant 1,1,Variant 1,Value 1,Value 174,Value 18,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+9742,Case 2084,Resolve ticket,Value 2,2012/06/11 13:21:43.000,Variant 1,1,Variant 1,Value 1,Value 174,Value 18,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+9743,Case 2084,Closed,Value 5,2012/07/14 13:11:03.000,Variant 1,1,Variant 1,Value 1,Value 174,Value 18,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+9754,Case 2087,Assign seriousness,Value 1,2011/12/21 11:24:41.000,Variant 15,15,Variant 15,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9755,Case 2087,Take in charge ticket,Value 9,2012/01/03 08:59:16.000,Variant 15,15,Variant 15,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9756,Case 2087,Wait,Value 9,2012/01/04 09:11:50.000,Variant 15,15,Variant 15,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9757,Case 2087,Take in charge ticket,Value 9,2012/01/04 11:15:52.000,Variant 15,15,Variant 15,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9758,Case 2087,Wait,Value 9,2012/01/13 10:13:12.000,Variant 15,15,Variant 15,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9759,Case 2087,Resolve ticket,Value 9,2012/01/16 14:49:26.000,Variant 15,15,Variant 15,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9760,Case 2087,Closed,Value 5,2012/01/31 14:49:44.000,Variant 15,15,Variant 15,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9947,Case 2127,Assign seriousness,Value 12,2011/09/14 07:59:06.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9948,Case 2127,Take in charge ticket,Value 12,2011/09/14 13:23:31.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9949,Case 2127,Resolve ticket,Value 12,2011/09/20 10:06:47.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+9950,Case 2127,Closed,Value 5,2011/10/15 08:00:55.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10064,Case 2151,Assign seriousness,Value 2,2011/06/29 09:41:01.000,Variant 1,1,Variant 1,Value 1,Value 44,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10065,Case 2151,Take in charge ticket,Value 2,2011/06/29 09:47:23.000,Variant 1,1,Variant 1,Value 1,Value 44,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10066,Case 2151,Resolve ticket,Value 2,2011/06/29 09:52:10.000,Variant 1,1,Variant 1,Value 1,Value 44,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10067,Case 2151,Closed,Value 5,2011/08/27 09:50:55.000,Variant 1,1,Variant 1,Value 1,Value 44,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10078,Case 2154,Assign seriousness,Value 1,2011/09/22 09:29:01.000,Variant 8,8,Variant 8,Value 1,Value 14,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10079,Case 2154,Resolve ticket,Value 9,2011/09/26 08:02:43.000,Variant 8,8,Variant 8,Value 1,Value 14,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10080,Case 2154,Resolve ticket,Value 9,2011/09/26 08:02:43.000,Variant 8,8,Variant 8,Value 1,Value 14,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10081,Case 2154,Closed,Value 5,2011/10/25 09:31:08.000,Variant 8,8,Variant 8,Value 1,Value 14,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10156,Case 2171,Assign seriousness,Value 1,2012/07/06 14:12:41.000,Variant 1,1,Variant 1,Value 1,Value 327,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10157,Case 2171,Take in charge ticket,Value 1,2012/07/11 08:36:03.000,Variant 1,1,Variant 1,Value 1,Value 327,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10158,Case 2171,Resolve ticket,Value 1,2012/07/11 12:45:29.000,Variant 1,1,Variant 1,Value 1,Value 327,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10159,Case 2171,Closed,Value 5,2012/08/08 14:20:29.000,Variant 1,1,Variant 1,Value 1,Value 327,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10194,Case 2180,Assign seriousness,Value 1,2011/11/30 10:37:46.000,Variant 1,1,Variant 1,Value 1,Value 28,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+10195,Case 2180,Take in charge ticket,Value 4,2011/12/01 13:56:43.000,Variant 1,1,Variant 1,Value 1,Value 28,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+10196,Case 2180,Resolve ticket,Value 4,2011/12/02 11:29:09.000,Variant 1,1,Variant 1,Value 1,Value 28,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+10197,Case 2180,Closed,Value 5,2012/01/21 10:40:44.000,Variant 1,1,Variant 1,Value 1,Value 28,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+10384,Case 2222,Assign seriousness,Value 9,2010/09/09 15:42:47.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10385,Case 2222,Take in charge ticket,Value 2,2010/09/17 07:35:31.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10386,Case 2222,Resolve ticket,Value 2,2010/09/17 08:17:15.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10387,Case 2222,Closed,Value 5,2010/10/23 15:50:56.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10392,Case 2224,Assign seriousness,Value 9,2012/02/13 08:38:59.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+10393,Case 2224,Take in charge ticket,Value 9,2012/02/13 08:39:33.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+10394,Case 2224,Resolve ticket,Value 9,2012/02/13 14:10:02.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+10395,Case 2224,Closed,Value 5,2012/03/17 08:40:33.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+10455,Case 2239,Assign seriousness,Value 4,2013/01/11 08:44:28.000,Variant 159,159,Variant 159,Value 1,Value 124,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+10456,Case 2239,Take in charge ticket,Value 2,2013/01/11 08:44:55.000,Variant 159,159,Variant 159,Value 1,Value 124,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+10457,Case 2239,Resolve ticket,Value 9,2013/01/18 09:22:51.000,Variant 159,159,Variant 159,Value 1,Value 124,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+10458,Case 2239,Resolve ticket,Value 9,2013/01/18 09:22:52.000,Variant 159,159,Variant 159,Value 1,Value 124,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+10459,Case 2239,Take in charge ticket,Value 1,2013/01/23 16:22:33.000,Variant 159,159,Variant 159,Value 1,Value 124,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+10460,Case 2239,Wait,Value 9,2013/01/25 14:40:17.000,Variant 159,159,Variant 159,Value 1,Value 124,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+10461,Case 2239,Resolve ticket,Value 9,2013/01/28 08:35:04.000,Variant 159,159,Variant 159,Value 1,Value 124,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+10462,Case 2239,Closed,Value 3,2013/02/12 08:35:25.000,Variant 159,159,Variant 159,Value 1,Value 124,Value 6,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+10556,Case 2261,Assign seriousness,Value 1,2012/01/27 15:25:30.000,Variant 1,1,Variant 1,Value 1,Value 191,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10557,Case 2261,Take in charge ticket,Value 1,2012/01/27 15:25:46.000,Variant 1,1,Variant 1,Value 1,Value 191,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10558,Case 2261,Resolve ticket,Value 1,2012/01/27 15:35:33.000,Variant 1,1,Variant 1,Value 1,Value 191,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10559,Case 2261,Closed,Value 5,2012/03/15 15:30:32.000,Variant 1,1,Variant 1,Value 1,Value 191,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10793,Case 2310,Assign seriousness,Value 14,2010/11/18 16:26:02.000,Variant 3,3,Variant 3,Value 1,Value 86,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10794,Case 2310,Take in charge ticket,Value 14,2010/12/07 10:59:17.000,Variant 3,3,Variant 3,Value 1,Value 86,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10795,Case 2310,Wait,Value 14,2010/12/10 10:36:54.000,Variant 3,3,Variant 3,Value 1,Value 86,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10796,Case 2310,Take in charge ticket,Value 14,2010/12/21 08:20:52.000,Variant 3,3,Variant 3,Value 1,Value 86,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10797,Case 2310,Resolve ticket,Value 14,2010/12/21 08:21:08.000,Variant 3,3,Variant 3,Value 1,Value 86,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10798,Case 2310,Closed,Value 5,2011/01/05 08:21:20.000,Variant 3,3,Variant 3,Value 1,Value 86,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10935,Case 2339,Assign seriousness,Value 2,2010/07/30 10:34:39.000,Variant 1,1,Variant 1,Value 1,Value 161,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10936,Case 2339,Take in charge ticket,Value 2,2010/09/01 08:00:29.000,Variant 1,1,Variant 1,Value 1,Value 161,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10937,Case 2339,Resolve ticket,Value 2,2010/09/01 10:57:10.000,Variant 1,1,Variant 1,Value 1,Value 161,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10938,Case 2339,Closed,Value 5,2010/09/16 10:57:25.000,Variant 1,1,Variant 1,Value 1,Value 161,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+10972,Case 2346,Insert ticket,Value 18,2013/09/17 09:01:24.000,Variant 51,51,Variant 51,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10973,Case 2346,Assign seriousness,Value 2,2013/09/18 06:47:24.000,Variant 51,51,Variant 51,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10974,Case 2346,Take in charge ticket,Value 9,2013/09/19 09:59:26.000,Variant 51,51,Variant 51,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10975,Case 2346,Wait,Value 2,2013/10/02 08:57:23.000,Variant 51,51,Variant 51,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10976,Case 2346,Resolve ticket,Value 9,2013/10/10 08:42:01.000,Variant 51,51,Variant 51,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+10977,Case 2346,Closed,Value 3,2013/10/25 08:42:22.000,Variant 51,51,Variant 51,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11118,Case 2376,Assign seriousness,Value 13,2011/05/06 09:31:55.000,Variant 1,1,Variant 1,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11119,Case 2376,Take in charge ticket,Value 9,2011/05/17 15:35:34.000,Variant 1,1,Variant 1,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11120,Case 2376,Resolve ticket,Value 9,2011/05/20 07:09:17.000,Variant 1,1,Variant 1,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11121,Case 2376,Closed,Value 5,2011/06/30 10:46:59.000,Variant 1,1,Variant 1,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11378,Case 2432,Assign seriousness,Value 4,2013/08/14 10:28:36.000,Variant 2,2,Variant 2,Value 1,Value 121,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11379,Case 2432,Take in charge ticket,Value 2,2013/08/26 09:10:52.000,Variant 2,2,Variant 2,Value 1,Value 121,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11380,Case 2432,Wait,Value 2,2013/08/26 09:38:12.000,Variant 2,2,Variant 2,Value 1,Value 121,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11381,Case 2432,Resolve ticket,Value 2,2013/09/04 09:15:39.000,Variant 2,2,Variant 2,Value 1,Value 121,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11382,Case 2432,Closed,Value 3,2013/09/19 09:15:47.000,Variant 2,2,Variant 2,Value 1,Value 121,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11485,Case 2455,Assign seriousness,Value 4,2012/08/13 10:45:48.000,Variant 2,2,Variant 2,Value 1,Value 1,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11486,Case 2455,Take in charge ticket,Value 4,2012/08/13 10:46:22.000,Variant 2,2,Variant 2,Value 1,Value 1,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11487,Case 2455,Wait,Value 4,2012/09/21 07:37:37.000,Variant 2,2,Variant 2,Value 1,Value 1,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11488,Case 2455,Resolve ticket,Value 4,2012/09/21 10:55:27.000,Variant 2,2,Variant 2,Value 1,Value 1,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11489,Case 2455,Closed,Value 3,2012/10/06 10:55:41.000,Variant 2,2,Variant 2,Value 1,Value 1,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11535,Case 2466,Assign seriousness,Value 1,2013/10/08 07:52:18.000,Variant 47,47,Variant 47,Value 1,Value 245,Value 4,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+11536,Case 2466,Take in charge ticket,Value 2,2013/10/15 06:49:42.000,Variant 47,47,Variant 47,Value 1,Value 245,Value 4,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+11537,Case 2466,Require upgrade,Value 1,2013/10/16 07:06:20.000,Variant 47,47,Variant 47,Value 1,Value 245,Value 4,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+11538,Case 2466,Require upgrade,Value 1,2013/10/16 14:54:25.000,Variant 47,47,Variant 47,Value 1,Value 245,Value 4,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+11539,Case 2466,Resolve ticket,Value 1,2013/11/07 08:52:15.000,Variant 47,47,Variant 47,Value 1,Value 245,Value 4,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+11540,Case 2466,Closed,Value 3,2013/11/22 08:52:28.000,Variant 47,47,Variant 47,Value 1,Value 245,Value 4,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+11629,Case 2485,Assign seriousness,Value 4,2012/01/12 08:31:38.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11630,Case 2485,Take in charge ticket,Value 4,2012/01/13 10:17:00.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11631,Case 2485,Resolve ticket,Value 4,2012/01/26 09:41:03.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11632,Case 2485,Closed,Value 5,2012/02/14 08:40:19.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+11737,Case 2507,Assign seriousness,Value 6,2010/05/18 10:49:46.000,Variant 1,1,Variant 1,Value 1,Value 221,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+11738,Case 2507,Take in charge ticket,Value 6,2010/05/18 11:11:06.000,Variant 1,1,Variant 1,Value 1,Value 221,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+11739,Case 2507,Resolve ticket,Value 6,2010/05/18 11:12:43.000,Variant 1,1,Variant 1,Value 1,Value 221,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+11740,Case 2507,Closed,Value 5,2010/07/01 10:50:51.000,Variant 1,1,Variant 1,Value 1,Value 221,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+12074,Case 2580,Assign seriousness,Value 1,2012/01/16 14:41:48.000,Variant 1,1,Variant 1,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+12075,Case 2580,Take in charge ticket,Value 6,2012/01/16 14:56:25.000,Variant 1,1,Variant 1,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+12076,Case 2580,Resolve ticket,Value 6,2012/01/16 15:11:13.000,Variant 1,1,Variant 1,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+12077,Case 2580,Closed,Value 5,2012/03/15 14:50:37.000,Variant 1,1,Variant 1,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+12490,Case 2668,Assign seriousness,Value 4,2013/01/14 14:27:26.000,Variant 172,172,Variant 172,Value 1,Value 12,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+12491,Case 2668,Assign seriousness,Value 4,2013/01/14 14:28:01.000,Variant 172,172,Variant 172,Value 1,Value 12,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+12492,Case 2668,Take in charge ticket,Value 2,2013/01/30 13:22:46.000,Variant 172,172,Variant 172,Value 1,Value 12,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+12493,Case 2668,Require upgrade,Value 2,2013/01/30 13:26:42.000,Variant 172,172,Variant 172,Value 1,Value 12,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+12494,Case 2668,Resolve ticket,Value 2,2013/02/13 08:58:53.000,Variant 172,172,Variant 172,Value 1,Value 12,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+12495,Case 2668,Closed,Value 3,2013/02/28 08:59:10.000,Variant 172,172,Variant 172,Value 1,Value 12,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+12954,Case 2769,Assign seriousness,Value 1,2011/09/14 10:05:27.000,Variant 1,1,Variant 1,Value 1,Value 149,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+12955,Case 2769,Take in charge ticket,Value 13,2011/09/14 12:27:29.000,Variant 1,1,Variant 1,Value 1,Value 149,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+12956,Case 2769,Resolve ticket,Value 13,2011/09/14 13:07:02.000,Variant 1,1,Variant 1,Value 1,Value 149,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+12957,Case 2769,Closed,Value 5,2011/10/15 10:10:55.000,Variant 1,1,Variant 1,Value 1,Value 149,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13011,Case 2782,Assign seriousness,Value 13,2011/08/02 14:22:25.000,Variant 12,12,Variant 12,Value 1,Value 135,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13012,Case 2782,Take in charge ticket,Value 10,2011/08/12 15:22:22.000,Variant 12,12,Variant 12,Value 1,Value 135,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13013,Case 2782,Take in charge ticket,Value 2,2011/09/02 08:04:57.000,Variant 12,12,Variant 12,Value 1,Value 135,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13014,Case 2782,Resolve ticket,Value 2,2011/09/12 15:27:00.000,Variant 12,12,Variant 12,Value 1,Value 135,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13015,Case 2782,Closed,Value 5,2011/09/27 15:27:17.000,Variant 12,12,Variant 12,Value 1,Value 135,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13069,Case 2795,Assign seriousness,Value 1,2012/03/20 14:30:38.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13070,Case 2795,Take in charge ticket,Value 2,2012/03/21 16:42:57.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13071,Case 2795,Wait,Value 2,2012/03/21 16:48:21.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13072,Case 2795,Resolve ticket,Value 2,2012/04/06 14:41:47.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13073,Case 2795,Closed,Value 5,2012/04/21 14:42:04.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13197,Case 2822,Assign seriousness,Value 13,2011/05/03 07:45:59.000,Variant 1,1,Variant 1,Value 1,Value 216,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13198,Case 2822,Take in charge ticket,Value 13,2011/05/03 07:46:09.000,Variant 1,1,Variant 1,Value 1,Value 216,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13199,Case 2822,Resolve ticket,Value 13,2011/05/03 08:41:24.000,Variant 1,1,Variant 1,Value 1,Value 216,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13200,Case 2822,Closed,Value 5,2011/06/03 07:50:20.000,Variant 1,1,Variant 1,Value 1,Value 216,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13205,Case 2824,Assign seriousness,Value 14,2010/11/18 11:36:06.000,Variant 1,1,Variant 1,Value 1,Value 66,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13206,Case 2824,Take in charge ticket,Value 14,2010/11/18 11:36:33.000,Variant 1,1,Variant 1,Value 1,Value 66,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13207,Case 2824,Resolve ticket,Value 14,2010/12/15 15:33:16.000,Variant 1,1,Variant 1,Value 1,Value 66,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13208,Case 2824,Closed,Value 5,2010/12/30 15:33:28.000,Variant 1,1,Variant 1,Value 1,Value 66,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13266,Case 2837,Assign seriousness,Value 1,2011/11/18 15:56:31.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13267,Case 2837,Take in charge ticket,Value 2,2011/11/21 11:04:41.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13268,Case 2837,Resolve ticket,Value 2,2011/11/21 11:20:17.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13269,Case 2837,Closed,Value 5,2011/12/21 16:00:22.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13497,Case 2887,Assign seriousness,Value 8,2011/03/11 09:55:19.000,Variant 14,14,Variant 14,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+13498,Case 2887,Take in charge ticket,Value 8,2011/03/11 09:56:04.000,Variant 14,14,Variant 14,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+13499,Case 2887,Wait,Value 12,2011/04/07 14:51:29.000,Variant 14,14,Variant 14,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+13500,Case 2887,Wait,Value 12,2011/04/18 13:46:39.000,Variant 14,14,Variant 14,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+13501,Case 2887,Resolve ticket,Value 12,2011/04/21 09:29:12.000,Variant 14,14,Variant 14,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+13502,Case 2887,Closed,Value 5,2011/05/06 09:29:28.000,Variant 14,14,Variant 14,Value 1,Value 92,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+13528,Case 2894,Assign seriousness,Value 8,2011/04/01 14:37:48.000,Variant 3,3,Variant 3,Value 1,Value 184,Value 10,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+13529,Case 2894,Take in charge ticket,Value 8,2011/04/01 14:38:13.000,Variant 3,3,Variant 3,Value 1,Value 184,Value 10,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+13530,Case 2894,Wait,Value 8,2011/04/07 15:44:34.000,Variant 3,3,Variant 3,Value 1,Value 184,Value 10,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+13531,Case 2894,Take in charge ticket,Value 2,2011/04/20 15:59:00.000,Variant 3,3,Variant 3,Value 1,Value 184,Value 10,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+13532,Case 2894,Resolve ticket,Value 2,2011/04/20 15:59:26.000,Variant 3,3,Variant 3,Value 1,Value 184,Value 10,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+13533,Case 2894,Closed,Value 5,2011/05/05 15:59:39.000,Variant 3,3,Variant 3,Value 1,Value 184,Value 10,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+13558,Case 2900,Assign seriousness,Value 8,2011/05/02 14:51:39.000,Variant 1,1,Variant 1,Value 1,Value 361,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 2
+13559,Case 2900,Take in charge ticket,Value 8,2011/05/02 14:52:07.000,Variant 1,1,Variant 1,Value 1,Value 361,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 2
+13560,Case 2900,Resolve ticket,Value 12,2011/05/03 10:35:10.000,Variant 1,1,Variant 1,Value 1,Value 361,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 2
+13561,Case 2900,Closed,Value 5,2011/06/17 15:00:35.000,Variant 1,1,Variant 1,Value 1,Value 361,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 2
+13566,Case 2902,Assign seriousness,Value 8,2011/05/06 15:13:05.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13567,Case 2902,Take in charge ticket,Value 2,2011/05/17 15:26:18.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13568,Case 2902,Resolve ticket,Value 9,2011/05/20 08:30:41.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13569,Case 2902,Closed,Value 5,2011/06/19 15:21:09.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+13664,Case 2923,Assign seriousness,Value 13,2011/06/13 14:07:00.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13665,Case 2923,Take in charge ticket,Value 13,2011/06/13 14:07:17.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13666,Case 2923,Resolve ticket,Value 13,2011/06/14 13:45:41.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13667,Case 2923,Closed,Value 5,2011/07/14 14:11:40.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13705,Case 2931,Assign seriousness,Value 14,2013/06/07 09:27:10.000,Variant 181,181,Variant 181,Value 1,Value 63,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13706,Case 2931,Take in charge ticket,Value 14,2013/06/07 09:27:28.000,Variant 181,181,Variant 181,Value 1,Value 63,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13707,Case 2931,Wait,Value 14,2013/06/07 09:28:42.000,Variant 181,181,Variant 181,Value 1,Value 63,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13708,Case 2931,Require upgrade,Value 2,2013/06/21 07:27:17.000,Variant 181,181,Variant 181,Value 1,Value 63,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13709,Case 2931,Resolve ticket,Value 9,2013/07/10 07:26:06.000,Variant 181,181,Variant 181,Value 1,Value 63,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13710,Case 2931,Resolve ticket,Value 9,2013/07/10 07:26:06.000,Variant 181,181,Variant 181,Value 1,Value 63,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13711,Case 2931,Closed,Value 3,2013/07/25 07:26:19.000,Variant 181,181,Variant 181,Value 1,Value 63,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13833,Case 2958,Assign seriousness,Value 1,2012/04/11 09:29:01.000,Variant 1,1,Variant 1,Value 1,Value 100,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+13834,Case 2958,Take in charge ticket,Value 6,2012/04/11 12:23:16.000,Variant 1,1,Variant 1,Value 1,Value 100,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+13835,Case 2958,Resolve ticket,Value 6,2012/04/16 12:39:10.000,Variant 1,1,Variant 1,Value 1,Value 100,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+13836,Case 2958,Closed,Value 5,2012/05/25 09:30:29.000,Variant 1,1,Variant 1,Value 1,Value 100,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+13951,Case 2983,Assign seriousness,Value 2,2010/06/16 07:27:14.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13952,Case 2983,Take in charge ticket,Value 2,2010/06/16 09:20:13.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13953,Case 2983,Resolve ticket,Value 2,2010/06/16 09:22:54.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+13954,Case 2983,Closed,Value 5,2010/07/17 07:30:49.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14091,Case 3014,Assign seriousness,Value 2,2011/10/27 07:44:43.000,Variant 8,8,Variant 8,Value 1,Value 60,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+14092,Case 3014,Resolve ticket,Value 1,2011/10/27 08:12:15.000,Variant 8,8,Variant 8,Value 1,Value 60,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+14093,Case 3014,Resolve ticket,Value 1,2011/10/27 08:12:16.000,Variant 8,8,Variant 8,Value 1,Value 60,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+14094,Case 3014,Closed,Value 5,2011/12/01 08:51:01.000,Variant 8,8,Variant 8,Value 1,Value 60,Value 1,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+14208,Case 3039,Assign seriousness,Value 2,2011/06/20 13:18:42.000,Variant 1,1,Variant 1,Value 1,Value 78,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14209,Case 3039,Take in charge ticket,Value 2,2011/06/22 13:35:23.000,Variant 1,1,Variant 1,Value 1,Value 78,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14210,Case 3039,Resolve ticket,Value 2,2011/06/28 12:43:09.000,Variant 1,1,Variant 1,Value 1,Value 78,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14211,Case 3039,Closed,Value 5,2011/07/21 13:21:22.000,Variant 1,1,Variant 1,Value 1,Value 78,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14217,Case 3041,Assign seriousness,Value 2,2010/03/24 15:12:13.000,Variant 1,1,Variant 1,Value 1,Value 365,Value 3,Value 4,Value 2,Value 2,Value 1,Value 3,Value 1
+14218,Case 3041,Take in charge ticket,Value 2,2010/04/15 10:03:09.000,Variant 1,1,Variant 1,Value 1,Value 365,Value 3,Value 4,Value 2,Value 2,Value 1,Value 3,Value 1
+14219,Case 3041,Resolve ticket,Value 2,2010/04/15 10:03:19.000,Variant 1,1,Variant 1,Value 1,Value 365,Value 3,Value 4,Value 2,Value 2,Value 1,Value 3,Value 1
+14220,Case 3041,Closed,Value 5,2010/05/15 10:03:42.000,Variant 1,1,Variant 1,Value 1,Value 365,Value 3,Value 4,Value 2,Value 2,Value 1,Value 3,Value 1
+14265,Case 3051,Assign seriousness,Value 2,2011/04/06 10:59:00.000,Variant 3,3,Variant 3,Value 1,Value 107,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14266,Case 3051,Take in charge ticket,Value 2,2011/04/06 10:59:31.000,Variant 3,3,Variant 3,Value 1,Value 107,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14267,Case 3051,Wait,Value 2,2011/04/08 08:48:56.000,Variant 3,3,Variant 3,Value 1,Value 107,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14268,Case 3051,Take in charge ticket,Value 2,2011/04/13 08:22:19.000,Variant 3,3,Variant 3,Value 1,Value 107,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14269,Case 3051,Resolve ticket,Value 2,2011/04/13 08:22:28.000,Variant 3,3,Variant 3,Value 1,Value 107,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14270,Case 3051,Closed,Value 5,2011/05/27 10:40:25.000,Variant 3,3,Variant 3,Value 1,Value 107,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14381,Case 3076,Assign seriousness,Value 9,2011/07/15 12:38:01.000,Variant 187,187,Variant 187,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14382,Case 3076,Assign seriousness,Value 2,2011/07/20 07:43:17.000,Variant 187,187,Variant 187,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14383,Case 3076,Take in charge ticket,Value 2,2011/07/22 08:19:22.000,Variant 187,187,Variant 187,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14384,Case 3076,Create SW anomaly,Value 2,2011/07/22 08:19:31.000,Variant 187,187,Variant 187,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14385,Case 3076,Resolve SW anomaly,Value 2,2011/07/22 08:19:44.000,Variant 187,187,Variant 187,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14386,Case 3076,Resolve ticket,Value 2,2011/08/05 07:30:41.000,Variant 187,187,Variant 187,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14387,Case 3076,Closed,Value 5,2011/08/20 07:30:54.000,Variant 187,187,Variant 187,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14731,Case 3150,Insert ticket,Value 12,2010/04/07 15:58:49.000,Variant 37,37,Variant 37,Value 1,Value 35,Value 3,Value 4,Value 3,Value 3,Value 2,Value 3,Value 1
+14732,Case 3150,Assign seriousness,Value 12,2010/04/07 15:59:09.000,Variant 37,37,Variant 37,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+14733,Case 3150,Take in charge ticket,Value 12,2010/04/09 15:35:32.000,Variant 37,37,Variant 37,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+14734,Case 3150,Wait,Value 12,2010/04/09 15:36:47.000,Variant 37,37,Variant 37,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+14735,Case 3150,Take in charge ticket,Value 12,2010/05/13 13:13:51.000,Variant 37,37,Variant 37,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+14736,Case 3150,Resolve ticket,Value 12,2010/05/13 13:14:09.000,Variant 37,37,Variant 37,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+14737,Case 3150,Closed,Value 5,2010/05/28 13:14:17.000,Variant 37,37,Variant 37,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+14809,Case 3166,Assign seriousness,Value 1,2012/01/31 14:16:30.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14810,Case 3166,Take in charge ticket,Value 4,2012/01/31 15:58:01.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14811,Case 3166,Resolve ticket,Value 9,2012/01/31 16:59:16.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14812,Case 3166,Closed,Value 5,2012/03/17 14:20:39.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14863,Case 3178,Assign seriousness,Value 1,2012/04/17 08:44:54.000,Variant 5,5,Variant 5,Value 1,Value 300,Value 6,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14864,Case 3178,Resolve ticket,Value 1,2012/04/17 09:37:54.000,Variant 5,5,Variant 5,Value 1,Value 300,Value 6,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14865,Case 3178,Closed,Value 5,2012/06/02 08:50:25.000,Variant 5,5,Variant 5,Value 1,Value 300,Value 6,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14909,Case 3188,Assign seriousness,Value 1,2012/08/29 07:29:10.000,Variant 1,1,Variant 1,Value 1,Value 266,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14910,Case 3188,Take in charge ticket,Value 1,2012/08/29 07:29:41.000,Variant 1,1,Variant 1,Value 1,Value 266,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14911,Case 3188,Resolve ticket,Value 1,2012/09/14 07:52:56.000,Variant 1,1,Variant 1,Value 1,Value 266,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14912,Case 3188,Closed,Value 3,2012/09/29 07:53:12.000,Variant 1,1,Variant 1,Value 1,Value 266,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14913,Case 3189,Assign seriousness,Value 1,2012/07/20 10:17:11.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14914,Case 3189,Take in charge ticket,Value 1,2012/07/20 10:17:23.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14915,Case 3189,Resolve ticket,Value 13,2012/07/25 09:34:12.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14916,Case 3189,Closed,Value 5,2012/09/02 10:20:27.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+14954,Case 3197,Assign seriousness,Value 8,2011/01/25 16:28:06.000,Variant 4,4,Variant 4,Value 1,Value 34,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14955,Case 3197,Assign seriousness,Value 2,2011/01/27 07:59:47.000,Variant 4,4,Variant 4,Value 1,Value 34,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14956,Case 3197,Take in charge ticket,Value 2,2011/01/27 07:59:59.000,Variant 4,4,Variant 4,Value 1,Value 34,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14957,Case 3197,Resolve ticket,Value 2,2011/01/27 08:00:06.000,Variant 4,4,Variant 4,Value 1,Value 34,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+14958,Case 3197,Closed,Value 5,2011/02/25 16:30:32.000,Variant 4,4,Variant 4,Value 1,Value 34,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15040,Case 3217,Assign seriousness,Value 13,2010/12/27 13:42:51.000,Variant 4,4,Variant 4,Value 1,Value 199,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+15041,Case 3217,Assign seriousness,Value 2,2011/01/21 14:31:26.000,Variant 4,4,Variant 4,Value 1,Value 199,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+15042,Case 3217,Take in charge ticket,Value 2,2011/01/21 14:31:33.000,Variant 4,4,Variant 4,Value 1,Value 199,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+15043,Case 3217,Resolve ticket,Value 9,2011/01/26 09:06:04.000,Variant 4,4,Variant 4,Value 1,Value 199,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+15044,Case 3217,Closed,Value 5,2011/02/10 09:06:28.000,Variant 4,4,Variant 4,Value 1,Value 199,Value 2,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+15083,Case 3227,Assign seriousness,Value 8,2011/04/19 09:38:12.000,Variant 1,1,Variant 1,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+15084,Case 3227,Take in charge ticket,Value 16,2011/04/20 15:54:40.000,Variant 1,1,Variant 1,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+15085,Case 3227,Resolve ticket,Value 16,2011/04/20 16:25:23.000,Variant 1,1,Variant 1,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+15086,Case 3227,Closed,Value 5,2011/06/02 09:41:50.000,Variant 1,1,Variant 1,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+15339,Case 3283,Assign seriousness,Value 1,2012/02/22 09:46:22.000,Variant 1,1,Variant 1,Value 1,Value 17,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15340,Case 3283,Take in charge ticket,Value 4,2012/02/22 13:52:22.000,Variant 1,1,Variant 1,Value 1,Value 17,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15341,Case 3283,Resolve ticket,Value 4,2012/03/07 11:24:02.000,Variant 1,1,Variant 1,Value 1,Value 17,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15342,Case 3283,Closed,Value 5,2012/03/24 09:50:32.000,Variant 1,1,Variant 1,Value 1,Value 17,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15447,Case 3306,Assign seriousness,Value 7,2010/10/26 15:36:43.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15448,Case 3306,Take in charge ticket,Value 2,2010/10/27 13:14:03.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15449,Case 3306,Resolve ticket,Value 2,2010/10/27 13:14:59.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15450,Case 3306,Closed,Value 5,2010/11/27 16:40:25.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15482,Case 3314,Assign seriousness,Value 18,2013/09/12 12:30:18.000,Variant 2,2,Variant 2,Value 1,Value 65,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+15483,Case 3314,Take in charge ticket,Value 20,2013/09/13 13:57:33.000,Variant 2,2,Variant 2,Value 1,Value 65,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+15484,Case 3314,Wait,Value 20,2013/09/13 15:06:11.000,Variant 2,2,Variant 2,Value 1,Value 65,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+15485,Case 3314,Resolve ticket,Value 20,2013/09/30 07:49:20.000,Variant 2,2,Variant 2,Value 1,Value 65,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+15486,Case 3314,Closed,Value 3,2013/10/15 07:49:34.000,Variant 2,2,Variant 2,Value 1,Value 65,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+15535,Case 3325,Assign seriousness,Value 4,2012/02/29 08:30:57.000,Variant 79,79,Variant 79,Value 1,Value 104,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+15536,Case 3325,Take in charge ticket,Value 2,2012/02/29 08:48:37.000,Variant 79,79,Variant 79,Value 1,Value 104,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+15537,Case 3325,Create SW anomaly,Value 2,2012/02/29 09:20:52.000,Variant 79,79,Variant 79,Value 1,Value 104,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+15538,Case 3325,Take in charge ticket,Value 2,2012/03/01 08:12:13.000,Variant 79,79,Variant 79,Value 1,Value 104,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+15539,Case 3325,Wait,Value 2,2012/03/01 08:13:12.000,Variant 79,79,Variant 79,Value 1,Value 104,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+15540,Case 3325,Resolve ticket,Value 2,2012/03/28 08:29:27.000,Variant 79,79,Variant 79,Value 1,Value 104,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+15541,Case 3325,Closed,Value 5,2012/04/20 07:40:13.000,Variant 79,79,Variant 79,Value 1,Value 104,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+15778,Case 3377,Assign seriousness,Value 1,2012/01/11 08:03:49.000,Variant 1,1,Variant 1,Value 1,Value 89,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15779,Case 3377,Take in charge ticket,Value 1,2012/01/11 08:04:06.000,Variant 1,1,Variant 1,Value 1,Value 89,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15780,Case 3377,Resolve ticket,Value 1,2012/01/11 16:44:22.000,Variant 1,1,Variant 1,Value 1,Value 89,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+15781,Case 3377,Closed,Value 5,2012/02/11 08:10:57.000,Variant 1,1,Variant 1,Value 1,Value 89,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16071,Case 3440,Assign seriousness,Value 2,2013/04/02 12:34:56.000,Variant 2,2,Variant 2,Value 1,Value 46,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16072,Case 3440,Take in charge ticket,Value 2,2013/04/04 07:46:17.000,Variant 2,2,Variant 2,Value 1,Value 46,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16073,Case 3440,Wait,Value 2,2013/04/18 07:24:35.000,Variant 2,2,Variant 2,Value 1,Value 46,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16074,Case 3440,Resolve ticket,Value 2,2013/05/03 10:14:21.000,Variant 2,2,Variant 2,Value 1,Value 46,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16075,Case 3440,Closed,Value 3,2013/05/18 10:14:42.000,Variant 2,2,Variant 2,Value 1,Value 46,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16184,Case 3463,Assign seriousness,Value 9,2010/10/15 10:41:31.000,Variant 1,1,Variant 1,Value 1,Value 97,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+16185,Case 3463,Take in charge ticket,Value 14,2010/10/15 15:16:21.000,Variant 1,1,Variant 1,Value 1,Value 97,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+16186,Case 3463,Resolve ticket,Value 14,2010/10/15 16:06:03.000,Variant 1,1,Variant 1,Value 1,Value 97,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+16187,Case 3463,Closed,Value 5,2010/11/28 11:50:24.000,Variant 1,1,Variant 1,Value 1,Value 97,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+16209,Case 3468,Assign seriousness,Value 4,2012/04/04 12:24:20.000,Variant 4,4,Variant 4,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+16210,Case 3468,Assign seriousness,Value 4,2012/04/04 12:25:15.000,Variant 4,4,Variant 4,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+16211,Case 3468,Take in charge ticket,Value 6,2012/04/04 12:38:22.000,Variant 4,4,Variant 4,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+16212,Case 3468,Resolve ticket,Value 16,2012/04/05 11:24:08.000,Variant 4,4,Variant 4,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+16213,Case 3468,Closed,Value 5,2012/05/18 12:30:38.000,Variant 4,4,Variant 4,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+16218,Case 3470,Assign seriousness,Value 1,2011/11/15 09:31:22.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+16219,Case 3470,Take in charge ticket,Value 12,2011/11/17 12:00:08.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+16220,Case 3470,Resolve ticket,Value 12,2011/11/17 12:00:54.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+16221,Case 3470,Closed,Value 5,2011/12/29 09:40:40.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+16387,Case 3507,Assign seriousness,Value 4,2011/11/08 16:29:55.000,Variant 6,6,Variant 6,Value 1,Value 3,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16388,Case 3507,Take in charge ticket,Value 13,2011/11/14 09:11:29.000,Variant 6,6,Variant 6,Value 1,Value 3,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16389,Case 3507,Resolve ticket,Value 2,2011/11/14 09:50:48.000,Variant 6,6,Variant 6,Value 1,Value 3,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16390,Case 3507,Resolve ticket,Value 2,2011/11/14 09:50:49.000,Variant 6,6,Variant 6,Value 1,Value 3,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16391,Case 3507,Closed,Value 5,2011/12/09 16:30:18.000,Variant 6,6,Variant 6,Value 1,Value 3,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16490,Case 3529,Assign seriousness,Value 14,2013/05/21 13:44:09.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+16491,Case 3529,Take in charge ticket,Value 14,2013/06/07 08:57:48.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+16492,Case 3529,Wait,Value 14,2013/06/07 15:34:53.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+16493,Case 3529,Resolve ticket,Value 14,2013/07/01 14:17:21.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+16494,Case 3529,Closed,Value 3,2013/07/16 14:17:35.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+16522,Case 3536,Assign seriousness,Value 1,2012/04/02 08:47:25.000,Variant 1,1,Variant 1,Value 1,Value 188,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+16523,Case 3536,Take in charge ticket,Value 1,2012/04/02 08:47:34.000,Variant 1,1,Variant 1,Value 1,Value 188,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+16524,Case 3536,Resolve ticket,Value 1,2012/04/02 09:38:03.000,Variant 1,1,Variant 1,Value 1,Value 188,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+16525,Case 3536,Closed,Value 5,2012/05/19 08:50:52.000,Variant 1,1,Variant 1,Value 1,Value 188,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+16857,Case 3608,Assign seriousness,Value 2,2010/01/13 08:40:25.000,Variant 33,33,Variant 33,Value 1,Value 63,Value 3,Value 5,Value 1,Value 2,Value 1,Value 4,Value 3
+16858,Case 3608,Take in charge ticket,Value 2,2010/01/29 08:52:27.000,Variant 33,33,Variant 33,Value 1,Value 63,Value 3,Value 5,Value 1,Value 2,Value 1,Value 4,Value 3
+16859,Case 3608,Resolve ticket,Value 2,2010/01/29 08:52:34.000,Variant 33,33,Variant 33,Value 1,Value 63,Value 3,Value 5,Value 1,Value 2,Value 1,Value 4,Value 3
+16860,Case 3608,Closed,Value 5,2010/02/13 08:52:48.000,Variant 33,33,Variant 33,Value 1,Value 63,Value 3,Value 5,Value 1,Value 2,Value 1,Value 4,Value 3
+16861,Case 3608,Closed,Value 5,2010/02/13 08:52:48.000,Variant 33,33,Variant 33,Value 1,Value 63,Value 3,Value 5,Value 1,Value 2,Value 1,Value 4,Value 3
+16976,Case 3636,Assign seriousness,Value 19,2010/07/13 12:30:47.000,Variant 1,1,Variant 1,Value 1,Value 301,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16977,Case 3636,Take in charge ticket,Value 2,2010/07/13 12:32:04.000,Variant 1,1,Variant 1,Value 1,Value 301,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16978,Case 3636,Resolve ticket,Value 2,2010/07/13 13:44:13.000,Variant 1,1,Variant 1,Value 1,Value 301,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+16979,Case 3636,Closed,Value 5,2010/08/13 12:40:27.000,Variant 1,1,Variant 1,Value 1,Value 301,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17112,Case 3666,Assign seriousness,Value 1,2013/06/26 09:53:23.000,Variant 2,2,Variant 2,Value 1,Value 58,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17113,Case 3666,Take in charge ticket,Value 2,2013/06/26 09:53:57.000,Variant 2,2,Variant 2,Value 1,Value 58,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17114,Case 3666,Wait,Value 1,2013/06/26 09:57:35.000,Variant 2,2,Variant 2,Value 1,Value 58,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17115,Case 3666,Resolve ticket,Value 1,2013/07/23 09:39:51.000,Variant 2,2,Variant 2,Value 1,Value 58,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17116,Case 3666,Closed,Value 3,2013/08/07 09:40:10.000,Variant 2,2,Variant 2,Value 1,Value 58,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17117,Case 3667,Assign seriousness,Value 1,2012/04/12 10:31:24.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+17118,Case 3667,Take in charge ticket,Value 6,2012/04/12 12:09:34.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+17119,Case 3667,Resolve ticket,Value 6,2012/04/20 10:57:00.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+17120,Case 3667,Closed,Value 5,2012/05/26 10:40:22.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+17197,Case 3685,Assign seriousness,Value 8,2011/03/11 16:07:00.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17198,Case 3685,Wait,Value 8,2011/03/11 16:19:12.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17199,Case 3685,Take in charge ticket,Value 8,2011/03/14 09:14:44.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17200,Case 3685,Wait,Value 8,2011/03/14 09:14:50.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17201,Case 3685,Take in charge ticket,Value 8,2011/03/14 10:27:05.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17202,Case 3685,Resolve ticket,Value 8,2011/03/14 10:28:34.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17203,Case 3685,Take in charge ticket,Value 8,2011/03/23 15:01:12.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17204,Case 3685,Wait,Value 8,2011/03/23 15:01:19.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17205,Case 3685,Take in charge ticket,Value 2,2011/04/01 15:25:46.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17206,Case 3685,Resolve ticket,Value 2,2011/04/01 15:26:38.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17207,Case 3685,Closed,Value 5,2011/04/16 15:26:54.000,Variant 204,204,Variant 204,Value 1,Value 16,Value 3,Value 1,Value 2,Value 2,Value 3,Value 1,Value 1
+17251,Case 3694,Assign seriousness,Value 13,2011/08/22 09:40:17.000,Variant 5,5,Variant 5,Value 1,Value 5,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+17252,Case 3694,Resolve ticket,Value 9,2011/08/22 14:08:16.000,Variant 5,5,Variant 5,Value 1,Value 5,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+17253,Case 3694,Closed,Value 5,2011/09/29 09:50:23.000,Variant 5,5,Variant 5,Value 1,Value 5,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+17393,Case 3726,Assign seriousness,Value 1,2012/01/26 13:07:42.000,Variant 1,1,Variant 1,Value 1,Value 30,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+17394,Case 3726,Take in charge ticket,Value 2,2012/01/30 09:28:47.000,Variant 1,1,Variant 1,Value 1,Value 30,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+17395,Case 3726,Resolve ticket,Value 2,2012/01/30 09:31:51.000,Variant 1,1,Variant 1,Value 1,Value 30,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+17396,Case 3726,Closed,Value 5,2012/03/04 13:10:28.000,Variant 1,1,Variant 1,Value 1,Value 30,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+17458,Case 3742,Assign seriousness,Value 4,2013/08/12 08:32:02.000,Variant 1,1,Variant 1,Value 1,Value 219,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17459,Case 3742,Take in charge ticket,Value 9,2013/08/23 14:49:31.000,Variant 1,1,Variant 1,Value 1,Value 219,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17460,Case 3742,Resolve ticket,Value 4,2013/09/13 09:20:09.000,Variant 1,1,Variant 1,Value 1,Value 219,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17461,Case 3742,Closed,Value 3,2013/09/28 09:20:24.000,Variant 1,1,Variant 1,Value 1,Value 219,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17585,Case 3771,Assign seriousness,Value 2,2010/09/28 10:11:19.000,Variant 3,3,Variant 3,Value 1,Value 282,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+17586,Case 3771,Take in charge ticket,Value 2,2010/09/28 10:11:43.000,Variant 3,3,Variant 3,Value 1,Value 282,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+17587,Case 3771,Wait,Value 2,2010/09/28 10:13:23.000,Variant 3,3,Variant 3,Value 1,Value 282,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+17588,Case 3771,Take in charge ticket,Value 2,2010/09/30 10:42:03.000,Variant 3,3,Variant 3,Value 1,Value 282,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+17589,Case 3771,Resolve ticket,Value 2,2010/09/30 10:42:26.000,Variant 3,3,Variant 3,Value 1,Value 282,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+17590,Case 3771,Closed,Value 5,2010/10/30 10:42:46.000,Variant 3,3,Variant 3,Value 1,Value 282,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+17606,Case 3775,Assign seriousness,Value 1,2013/04/30 08:24:20.000,Variant 2,2,Variant 2,Value 1,Value 5,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17607,Case 3775,Take in charge ticket,Value 2,2013/05/02 09:19:28.000,Variant 2,2,Variant 2,Value 1,Value 5,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17608,Case 3775,Wait,Value 2,2013/05/08 08:53:12.000,Variant 2,2,Variant 2,Value 1,Value 5,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17609,Case 3775,Resolve ticket,Value 2,2013/06/10 13:09:41.000,Variant 2,2,Variant 2,Value 1,Value 5,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17610,Case 3775,Closed,Value 3,2013/06/25 13:10:00.000,Variant 2,2,Variant 2,Value 1,Value 5,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17670,Case 3788,Assign seriousness,Value 7,2010/10/07 07:36:31.000,Variant 4,4,Variant 4,Value 1,Value 227,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17671,Case 3788,Assign seriousness,Value 2,2010/10/07 08:45:12.000,Variant 4,4,Variant 4,Value 1,Value 227,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17672,Case 3788,Take in charge ticket,Value 2,2010/10/07 08:45:20.000,Variant 4,4,Variant 4,Value 1,Value 227,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17673,Case 3788,Resolve ticket,Value 7,2010/10/07 10:15:03.000,Variant 4,4,Variant 4,Value 1,Value 227,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17674,Case 3788,Closed,Value 5,2010/11/24 08:40:24.000,Variant 4,4,Variant 4,Value 1,Value 227,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+17766,Case 3808,Take in charge ticket,Value 4,2012/04/03 08:24:55.000,Variant 11,11,Variant 11,Value 1,Value 9,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+17767,Case 3808,Resolve ticket,Value 4,2012/04/03 08:25:46.000,Variant 11,11,Variant 11,Value 1,Value 9,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+17768,Case 3808,Closed,Value 5,2012/05/05 08:30:56.000,Variant 11,11,Variant 11,Value 1,Value 9,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+17857,Case 3827,Assign seriousness,Value 2,2010/11/17 10:23:03.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+17858,Case 3827,Take in charge ticket,Value 11,2010/11/18 11:15:28.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+17859,Case 3827,Resolve ticket,Value 11,2010/11/18 11:52:25.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+17860,Case 3827,Closed,Value 5,2010/12/18 10:30:20.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 3,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+17897,Case 3835,Assign seriousness,Value 9,2010/10/25 16:15:56.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17898,Case 3835,Assign seriousness,Value 19,2010/10/29 13:42:00.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17899,Case 3835,Take in charge ticket,Value 12,2010/10/29 13:43:44.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17900,Case 3835,Resolve ticket,Value 2,2010/11/04 08:48:02.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17901,Case 3835,Take in charge ticket,Value 2,2010/11/04 09:27:27.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17902,Case 3835,Wait,Value 2,2010/11/04 15:47:22.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17903,Case 3835,Take in charge ticket,Value 2,2010/11/15 13:59:53.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17904,Case 3835,Resolve ticket,Value 2,2010/11/15 16:03:22.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17905,Case 3835,Take in charge ticket,Value 2,2010/11/16 11:05:52.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17906,Case 3835,Wait,Value 2,2010/11/16 11:05:59.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17907,Case 3835,Take in charge ticket,Value 2,2010/11/18 09:51:21.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17908,Case 3835,Resolve ticket,Value 2,2010/11/19 16:26:13.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17909,Case 3835,Closed,Value 5,2010/12/04 16:26:35.000,Variant 208,208,Variant 208,Value 1,Value 40,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+17995,Case 3855,Assign seriousness,Value 8,2011/03/21 08:31:31.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 3,Value 2,Value 1,Value 4
+17996,Case 3855,Take in charge ticket,Value 17,2011/03/22 15:40:35.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 3,Value 2,Value 1,Value 4
+17997,Case 3855,Resolve ticket,Value 17,2011/03/24 15:23:05.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 3,Value 2,Value 1,Value 4
+17998,Case 3855,Closed,Value 5,2011/04/27 07:41:50.000,Variant 1,1,Variant 1,Value 1,Value 35,Value 3,Value 1,Value 2,Value 3,Value 2,Value 1,Value 4
+18164,Case 3893,Assign seriousness,Value 2,2010/05/04 07:47:33.000,Variant 3,3,Variant 3,Value 1,Value 145,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18165,Case 3893,Take in charge ticket,Value 2,2010/05/21 07:02:59.000,Variant 3,3,Variant 3,Value 1,Value 145,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18166,Case 3893,Wait,Value 2,2010/05/21 07:18:03.000,Variant 3,3,Variant 3,Value 1,Value 145,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18167,Case 3893,Take in charge ticket,Value 2,2010/05/21 14:04:34.000,Variant 3,3,Variant 3,Value 1,Value 145,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18168,Case 3893,Resolve ticket,Value 2,2010/05/21 14:46:05.000,Variant 3,3,Variant 3,Value 1,Value 145,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18169,Case 3893,Closed,Value 5,2010/06/20 14:46:31.000,Variant 3,3,Variant 3,Value 1,Value 145,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18226,Case 3905,Assign seriousness,Value 14,2013/11/22 17:22:29.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 5,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18227,Case 3905,Take in charge ticket,Value 9,2013/12/09 13:34:07.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 5,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18228,Case 3905,Wait,Value 9,2013/12/09 16:33:47.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 5,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18229,Case 3905,Resolve ticket,Value 9,2013/12/16 11:44:00.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 5,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18230,Case 3905,Closed,Value 3,2013/12/31 11:44:14.000,Variant 2,2,Variant 2,Value 1,Value 63,Value 5,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18537,Case 3975,Assign seriousness,Value 2,2010/11/10 16:37:06.000,Variant 22,22,Variant 22,Value 1,Value 10,Value 3,Value 1,Value 2,Value 3,Value 3,Value 1,Value 1
+18538,Case 3975,Take in charge ticket,Value 2,2010/11/10 16:38:54.000,Variant 22,22,Variant 22,Value 1,Value 10,Value 3,Value 1,Value 2,Value 3,Value 3,Value 1,Value 1
+18539,Case 3975,Wait,Value 7,2010/11/15 10:28:11.000,Variant 22,22,Variant 22,Value 1,Value 10,Value 3,Value 1,Value 2,Value 3,Value 3,Value 1,Value 1
+18540,Case 3975,Take in charge ticket,Value 7,2010/11/15 10:28:21.000,Variant 22,22,Variant 22,Value 1,Value 10,Value 3,Value 1,Value 2,Value 3,Value 3,Value 1,Value 1
+18541,Case 3975,Wait,Value 7,2010/11/15 10:29:23.000,Variant 22,22,Variant 22,Value 1,Value 10,Value 3,Value 1,Value 2,Value 3,Value 3,Value 1,Value 1
+18542,Case 3975,Take in charge ticket,Value 7,2010/11/15 14:09:03.000,Variant 22,22,Variant 22,Value 1,Value 10,Value 3,Value 1,Value 2,Value 3,Value 3,Value 1,Value 1
+18543,Case 3975,Resolve ticket,Value 7,2010/11/15 14:09:11.000,Variant 22,22,Variant 22,Value 1,Value 10,Value 3,Value 1,Value 2,Value 3,Value 3,Value 1,Value 1
+18544,Case 3975,Closed,Value 5,2010/12/30 14:09:37.000,Variant 22,22,Variant 22,Value 1,Value 10,Value 3,Value 1,Value 2,Value 3,Value 3,Value 1,Value 1
+18563,Case 3980,Assign seriousness,Value 1,2011/11/17 10:20:43.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18564,Case 3980,Take in charge ticket,Value 13,2011/11/17 10:24:48.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18565,Case 3980,Resolve ticket,Value 13,2011/11/17 14:44:29.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18566,Case 3980,Closed,Value 5,2011/12/20 10:30:22.000,Variant 1,1,Variant 1,Value 1,Value 18,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18580,Case 3983,Assign seriousness,Value 1,2013/06/21 10:08:21.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18581,Case 3983,Take in charge ticket,Value 2,2013/06/27 08:34:19.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18582,Case 3983,Wait,Value 2,2013/07/08 07:06:32.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18583,Case 3983,Resolve ticket,Value 2,2013/07/09 14:39:57.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18584,Case 3983,Closed,Value 3,2013/07/24 14:40:08.000,Variant 2,2,Variant 2,Value 1,Value 22,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18589,Case 3985,Assign seriousness,Value 9,2011/02/22 17:14:10.000,Variant 1,1,Variant 1,Value 1,Value 97,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+18590,Case 3985,Take in charge ticket,Value 13,2011/02/23 15:32:16.000,Variant 1,1,Variant 1,Value 1,Value 97,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+18591,Case 3985,Resolve ticket,Value 13,2011/02/23 15:32:25.000,Variant 1,1,Variant 1,Value 1,Value 97,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+18592,Case 3985,Closed,Value 5,2011/04/07 16:00:35.000,Variant 1,1,Variant 1,Value 1,Value 97,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+18607,Case 3989,Assign seriousness,Value 4,2012/01/12 16:46:38.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18608,Case 3989,Take in charge ticket,Value 4,2012/01/12 16:59:28.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18609,Case 3989,Resolve ticket,Value 4,2012/01/13 08:24:54.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18610,Case 3989,Closed,Value 5,2012/02/29 16:50:32.000,Variant 1,1,Variant 1,Value 1,Value 49,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18738,Case 4016,Assign seriousness,Value 13,2011/01/11 15:01:42.000,Variant 1,1,Variant 1,Value 1,Value 73,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18739,Case 4016,Take in charge ticket,Value 8,2011/01/17 16:53:50.000,Variant 1,1,Variant 1,Value 1,Value 73,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18740,Case 4016,Resolve ticket,Value 8,2011/02/03 16:56:02.000,Variant 1,1,Variant 1,Value 1,Value 73,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18741,Case 4016,Closed,Value 5,2011/02/18 16:56:24.000,Variant 1,1,Variant 1,Value 1,Value 73,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18807,Case 4029,Assign seriousness,Value 1,2012/06/14 15:56:12.000,Variant 1,1,Variant 1,Value 1,Value 312,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18808,Case 4029,Take in charge ticket,Value 13,2012/06/20 07:32:40.000,Variant 1,1,Variant 1,Value 1,Value 312,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18809,Case 4029,Resolve ticket,Value 1,2012/07/10 14:39:18.000,Variant 1,1,Variant 1,Value 1,Value 312,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18810,Case 4029,Closed,Value 5,2012/07/25 14:39:34.000,Variant 1,1,Variant 1,Value 1,Value 312,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+18840,Case 4037,Assign seriousness,Value 13,2012/07/31 09:16:25.000,Variant 1,1,Variant 1,Value 1,Value 13,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+18841,Case 4037,Take in charge ticket,Value 13,2012/07/31 09:16:36.000,Variant 1,1,Variant 1,Value 1,Value 13,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+18842,Case 4037,Resolve ticket,Value 13,2012/07/31 09:16:50.000,Variant 1,1,Variant 1,Value 1,Value 13,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+18843,Case 4037,Closed,Value 5,2012/09/01 09:20:21.000,Variant 1,1,Variant 1,Value 1,Value 13,Value 1,Value 1,Value 4,Value 3,Value 1,Value 1,Value 1
+18894,Case 4049,Assign seriousness,Value 9,2011/07/04 14:08:11.000,Variant 3,3,Variant 3,Value 1,Value 126,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 2
+18895,Case 4049,Take in charge ticket,Value 12,2011/07/08 07:28:19.000,Variant 3,3,Variant 3,Value 1,Value 126,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 2
+18896,Case 4049,Wait,Value 12,2011/07/08 07:36:02.000,Variant 3,3,Variant 3,Value 1,Value 126,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 2
+18897,Case 4049,Take in charge ticket,Value 9,2011/07/08 14:48:50.000,Variant 3,3,Variant 3,Value 1,Value 126,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 2
+18898,Case 4049,Resolve ticket,Value 9,2011/07/08 14:49:29.000,Variant 3,3,Variant 3,Value 1,Value 126,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 2
+18899,Case 4049,Closed,Value 5,2011/08/20 12:20:32.000,Variant 3,3,Variant 3,Value 1,Value 126,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 2
+18926,Case 4056,Assign seriousness,Value 2,2012/02/14 15:09:55.000,Variant 5,5,Variant 5,Value 1,Value 121,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+18927,Case 4056,Resolve ticket,Value 2,2012/02/14 15:10:30.000,Variant 5,5,Variant 5,Value 1,Value 121,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+18928,Case 4056,Closed,Value 5,2012/03/29 14:10:28.000,Variant 5,5,Variant 5,Value 1,Value 121,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+18992,Case 4071,Assign seriousness,Value 1,2012/01/13 09:44:29.000,Variant 1,1,Variant 1,Value 1,Value 156,Value 15,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18993,Case 4071,Take in charge ticket,Value 2,2012/01/16 15:54:12.000,Variant 1,1,Variant 1,Value 1,Value 156,Value 15,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18994,Case 4071,Resolve ticket,Value 2,2012/01/23 15:00:36.000,Variant 1,1,Variant 1,Value 1,Value 156,Value 15,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+18995,Case 4071,Closed,Value 5,2012/03/01 09:50:31.000,Variant 1,1,Variant 1,Value 1,Value 156,Value 15,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19019,Case 4077,Insert ticket,Value 11,2010/03/15 10:35:48.000,Variant 7,7,Variant 7,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+19020,Case 4077,Assign seriousness,Value 11,2010/03/15 10:35:57.000,Variant 7,7,Variant 7,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+19021,Case 4077,Take in charge ticket,Value 11,2010/03/15 10:36:06.000,Variant 7,7,Variant 7,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+19022,Case 4077,Resolve ticket,Value 11,2010/03/15 11:12:05.000,Variant 7,7,Variant 7,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+19023,Case 4077,Closed,Value 5,2010/04/21 09:40:40.000,Variant 7,7,Variant 7,Value 1,Value 35,Value 3,Value 4,Value 2,Value 3,Value 2,Value 3,Value 1
+19032,Case 4080,Assign seriousness,Value 1,2011/10/14 07:50:40.000,Variant 8,8,Variant 8,Value 1,Value 71,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+19033,Case 4080,Resolve ticket,Value 2,2011/10/14 09:54:41.000,Variant 8,8,Variant 8,Value 1,Value 71,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+19034,Case 4080,Resolve ticket,Value 2,2011/10/14 09:54:41.000,Variant 8,8,Variant 8,Value 1,Value 71,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+19035,Case 4080,Closed,Value 5,2011/11/20 09:00:19.000,Variant 8,8,Variant 8,Value 1,Value 71,Value 3,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+19046,Case 4083,Assign seriousness,Value 1,2011/11/18 14:49:38.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 8,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19047,Case 4083,Take in charge ticket,Value 9,2011/11/18 14:53:18.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 8,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19048,Case 4083,Resolve ticket,Value 9,2011/11/21 08:06:41.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 8,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19049,Case 4083,Closed,Value 5,2012/01/05 14:51:41.000,Variant 1,1,Variant 1,Value 1,Value 51,Value 8,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19159,Case 4109,Assign seriousness,Value 8,2011/04/13 16:00:26.000,Variant 1,1,Variant 1,Value 1,Value 391,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+19160,Case 4109,Take in charge ticket,Value 8,2011/04/13 16:00:51.000,Variant 1,1,Variant 1,Value 1,Value 391,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+19161,Case 4109,Resolve ticket,Value 15,2011/04/14 15:45:49.000,Variant 1,1,Variant 1,Value 1,Value 391,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+19162,Case 4109,Closed,Value 5,2011/05/21 16:00:39.000,Variant 1,1,Variant 1,Value 1,Value 391,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+19286,Case 4138,Assign seriousness,Value 9,2010/09/23 14:09:14.000,Variant 1,1,Variant 1,Value 1,Value 66,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19287,Case 4138,Take in charge ticket,Value 9,2010/09/23 14:09:26.000,Variant 1,1,Variant 1,Value 1,Value 66,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19288,Case 4138,Resolve ticket,Value 9,2010/09/23 14:11:45.000,Variant 1,1,Variant 1,Value 1,Value 66,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19289,Case 4138,Closed,Value 5,2010/10/26 14:10:14.000,Variant 1,1,Variant 1,Value 1,Value 66,Value 3,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19395,Case 4162,Assign seriousness,Value 4,2012/08/13 07:11:00.000,Variant 1,1,Variant 1,Value 1,Value 72,Value 1,Value 1,Value 4,Value 1,Value 1,Value 1,Value 1
+19396,Case 4162,Take in charge ticket,Value 4,2012/08/13 07:11:27.000,Variant 1,1,Variant 1,Value 1,Value 72,Value 1,Value 1,Value 4,Value 1,Value 1,Value 1,Value 1
+19397,Case 4162,Resolve ticket,Value 4,2012/08/13 08:58:19.000,Variant 1,1,Variant 1,Value 1,Value 72,Value 1,Value 1,Value 4,Value 1,Value 1,Value 1,Value 1
+19398,Case 4162,Closed,Value 5,2012/09/13 07:20:26.000,Variant 1,1,Variant 1,Value 1,Value 72,Value 1,Value 1,Value 4,Value 1,Value 1,Value 1,Value 1
+19415,Case 4166,Assign seriousness,Value 13,2012/04/03 11:00:16.000,Variant 2,2,Variant 2,Value 1,Value 393,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19416,Case 4166,Take in charge ticket,Value 13,2012/04/03 15:29:17.000,Variant 2,2,Variant 2,Value 1,Value 393,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19417,Case 4166,Wait,Value 13,2012/04/13 12:19:52.000,Variant 2,2,Variant 2,Value 1,Value 393,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19418,Case 4166,Resolve ticket,Value 13,2012/04/17 09:59:11.000,Variant 2,2,Variant 2,Value 1,Value 393,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19419,Case 4166,Closed,Value 5,2012/05/23 09:40:35.000,Variant 2,2,Variant 2,Value 1,Value 393,Value 7,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19760,Case 4242,Wait,Value 1,2011/11/03 11:54:14.000,Variant 218,218,Variant 218,Value 1,Value 53,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19761,Case 4242,Resolve ticket,Value 1,2011/11/04 16:50:51.000,Variant 218,218,Variant 218,Value 1,Value 53,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19762,Case 4242,Closed,Value 5,2011/12/21 12:01:52.000,Variant 218,218,Variant 218,Value 1,Value 53,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+19858,Case 4263,Assign seriousness,Value 6,2010/05/21 17:08:34.000,Variant 3,3,Variant 3,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+19859,Case 4263,Take in charge ticket,Value 16,2010/05/27 08:11:19.000,Variant 3,3,Variant 3,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+19860,Case 4263,Wait,Value 16,2010/05/27 11:04:56.000,Variant 3,3,Variant 3,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+19861,Case 4263,Take in charge ticket,Value 16,2010/05/27 11:44:14.000,Variant 3,3,Variant 3,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+19862,Case 4263,Resolve ticket,Value 16,2010/05/27 11:44:23.000,Variant 3,3,Variant 3,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+19863,Case 4263,Closed,Value 5,2010/06/22 16:00:23.000,Variant 3,3,Variant 3,Value 1,Value 8,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+19995,Case 4291,Assign seriousness,Value 13,2011/09/01 13:39:40.000,Variant 5,5,Variant 5,Value 1,Value 9,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+19996,Case 4291,Resolve ticket,Value 13,2011/09/01 13:59:02.000,Variant 5,5,Variant 5,Value 1,Value 9,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+19997,Case 4291,Closed,Value 5,2011/10/08 13:40:37.000,Variant 5,5,Variant 5,Value 1,Value 9,Value 1,Value 1,Value 2,Value 3,Value 1,Value 1,Value 1
+20187,Case 4334,Assign seriousness,Value 1,2012/03/15 13:24:42.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+20188,Case 4334,Take in charge ticket,Value 6,2012/03/16 08:13:04.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+20189,Case 4334,Resolve ticket,Value 6,2012/04/06 13:09:45.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+20190,Case 4334,Closed,Value 5,2012/04/21 13:10:04.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 2
+20226,Case 4342,Assign seriousness,Value 19,2010/06/29 12:42:13.000,Variant 1,1,Variant 1,Value 1,Value 259,Value 3,Value 4,Value 2,Value 2,Value 1,Value 1,Value 1
+20227,Case 4342,Take in charge ticket,Value 19,2010/07/29 12:35:09.000,Variant 1,1,Variant 1,Value 1,Value 259,Value 3,Value 4,Value 2,Value 2,Value 1,Value 1,Value 1
+20228,Case 4342,Resolve ticket,Value 19,2010/07/29 13:07:48.000,Variant 1,1,Variant 1,Value 1,Value 259,Value 3,Value 4,Value 2,Value 2,Value 1,Value 1,Value 1
+20229,Case 4342,Closed,Value 5,2010/08/13 13:07:57.000,Variant 1,1,Variant 1,Value 1,Value 259,Value 3,Value 4,Value 2,Value 2,Value 1,Value 1,Value 1
+20536,Case 4406,Assign seriousness,Value 8,2011/02/24 10:13:34.000,Variant 12,12,Variant 12,Value 1,Value 94,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+20537,Case 4406,Take in charge ticket,Value 8,2011/02/24 10:15:11.000,Variant 12,12,Variant 12,Value 1,Value 94,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+20538,Case 4406,Take in charge ticket,Value 8,2011/02/24 12:44:44.000,Variant 12,12,Variant 12,Value 1,Value 94,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+20539,Case 4406,Resolve ticket,Value 16,2011/03/09 12:30:27.000,Variant 12,12,Variant 12,Value 1,Value 94,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+20540,Case 4406,Closed,Value 5,2011/04/08 11:30:41.000,Variant 12,12,Variant 12,Value 1,Value 94,Value 3,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+20614,Case 4422,Assign seriousness,Value 1,2012/08/03 08:51:46.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+20615,Case 4422,Take in charge ticket,Value 1,2012/08/03 08:51:56.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+20616,Case 4422,Resolve ticket,Value 1,2012/08/03 09:01:31.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+20617,Case 4422,Closed,Value 5,2012/09/08 09:00:32.000,Variant 1,1,Variant 1,Value 1,Value 16,Value 2,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+20679,Case 4436,Assign seriousness,Value 1,2011/09/23 07:06:00.000,Variant 9,9,Variant 9,Value 1,Value 222,Value 2,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+20680,Case 4436,Take in charge ticket,Value 1,2011/09/26 13:38:29.000,Variant 9,9,Variant 9,Value 1,Value 222,Value 2,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+20681,Case 4436,Resolve ticket,Value 1,2011/09/29 08:42:06.000,Variant 9,9,Variant 9,Value 1,Value 222,Value 2,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+20682,Case 4436,Take in charge ticket,Value 1,2011/09/29 09:23:39.000,Variant 9,9,Variant 9,Value 1,Value 222,Value 2,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+20683,Case 4436,Resolve ticket,Value 6,2011/09/30 14:00:08.000,Variant 9,9,Variant 9,Value 1,Value 222,Value 2,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+20684,Case 4436,Closed,Value 5,2011/11/10 08:10:26.000,Variant 9,9,Variant 9,Value 1,Value 222,Value 2,Value 1,Value 1,Value 2,Value 2,Value 1,Value 2
+20689,Case 4438,Assign seriousness,Value 2,2011/07/14 12:22:44.000,Variant 9,9,Variant 9,Value 1,Value 164,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+20690,Case 4438,Take in charge ticket,Value 2,2011/07/14 14:06:11.000,Variant 9,9,Variant 9,Value 1,Value 164,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+20691,Case 4438,Resolve ticket,Value 2,2011/07/14 14:18:17.000,Variant 9,9,Variant 9,Value 1,Value 164,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+20692,Case 4438,Take in charge ticket,Value 2,2011/07/14 15:45:47.000,Variant 9,9,Variant 9,Value 1,Value 164,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+20693,Case 4438,Resolve ticket,Value 2,2011/07/15 12:18:51.000,Variant 9,9,Variant 9,Value 1,Value 164,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+20694,Case 4438,Closed,Value 5,2011/08/16 12:30:19.000,Variant 9,9,Variant 9,Value 1,Value 164,Value 4,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+20839,Case 4469,Assign seriousness,Value 1,2012/08/01 07:06:00.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+20840,Case 4469,Take in charge ticket,Value 1,2012/08/01 07:06:14.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+20841,Case 4469,Resolve ticket,Value 1,2012/08/01 07:35:37.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+20842,Case 4469,Closed,Value 5,2012/09/08 07:10:42.000,Variant 1,1,Variant 1,Value 1,Value 9,Value 1,Value 1,Value 1,Value 3,Value 1,Value 1,Value 1
+20886,Case 4480,Assign seriousness,Value 8,2010/12/06 14:36:06.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+20887,Case 4480,Take in charge ticket,Value 14,2010/12/17 10:46:27.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+20888,Case 4480,Resolve ticket,Value 14,2011/01/12 15:04:59.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+20889,Case 4480,Closed,Value 5,2011/01/27 15:05:15.000,Variant 1,1,Variant 1,Value 1,Value 22,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+20896,Case 4482,Assign seriousness,Value 9,2010/08/02 08:25:40.000,Variant 3,3,Variant 3,Value 1,Value 11,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+20897,Case 4482,Take in charge ticket,Value 9,2010/08/02 08:26:17.000,Variant 3,3,Variant 3,Value 1,Value 11,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+20898,Case 4482,Wait,Value 9,2010/08/02 08:26:40.000,Variant 3,3,Variant 3,Value 1,Value 11,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+20899,Case 4482,Take in charge ticket,Value 9,2010/08/02 08:49:52.000,Variant 3,3,Variant 3,Value 1,Value 11,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+20900,Case 4482,Resolve ticket,Value 9,2010/08/02 08:50:14.000,Variant 3,3,Variant 3,Value 1,Value 11,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+20901,Case 4482,Closed,Value 5,2010/09/19 08:30:59.000,Variant 3,3,Variant 3,Value 1,Value 11,Value 3,Value 1,Value 4,Value 2,Value 1,Value 1,Value 1
+20923,Case 4488,Assign seriousness,Value 9,2010/12/13 11:24:06.000,Variant 1,1,Variant 1,Value 1,Value 86,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+20924,Case 4488,Take in charge ticket,Value 2,2010/12/20 16:16:32.000,Variant 1,1,Variant 1,Value 1,Value 86,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+20925,Case 4488,Resolve ticket,Value 14,2010/12/21 13:44:29.000,Variant 1,1,Variant 1,Value 1,Value 86,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+20926,Case 4488,Closed,Value 5,2011/01/26 11:30:25.000,Variant 1,1,Variant 1,Value 1,Value 86,Value 3,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+21054,Case 4517,Assign seriousness,Value 13,2011/08/22 07:52:03.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+21055,Case 4517,Take in charge ticket,Value 13,2011/08/22 07:52:12.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+21056,Case 4517,Resolve ticket,Value 13,2011/08/23 09:19:56.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+21057,Case 4517,Closed,Value 5,2011/10/05 08:00:49.000,Variant 1,1,Variant 1,Value 1,Value 27,Value 1,Value 1,Value 2,Value 2,Value 1,Value 1,Value 1
+21106,Case 4528,Assign seriousness,Value 1,2011/11/18 13:33:44.000,Variant 225,225,Variant 225,Value 1,Value 375,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+21107,Case 4528,Resolve ticket,Value 1,2011/11/18 14:35:55.000,Variant 225,225,Variant 225,Value 1,Value 375,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+21108,Case 4528,Wait,Value 1,2011/11/21 10:42:07.000,Variant 225,225,Variant 225,Value 1,Value 375,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+21109,Case 4528,Wait,Value 1,2011/11/21 10:42:08.000,Variant 225,225,Variant 225,Value 1,Value 375,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+21110,Case 4528,Resolve ticket,Value 6,2011/11/28 09:30:49.000,Variant 225,225,Variant 225,Value 1,Value 375,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+21111,Case 4528,Closed,Value 5,2012/01/01 13:40:38.000,Variant 225,225,Variant 225,Value 1,Value 375,Value 3,Value 1,Value 2,Value 2,Value 2,Value 1,Value 1
+21164,Case 4542,Assign seriousness,Value 1,2012/06/08 12:10:27.000,Variant 1,1,Variant 1,Value 1,Value 176,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+21165,Case 4542,Take in charge ticket,Value 2,2012/06/15 15:19:48.000,Variant 1,1,Variant 1,Value 1,Value 176,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+21166,Case 4542,Resolve ticket,Value 2,2012/06/26 07:40:00.000,Variant 1,1,Variant 1,Value 1,Value 176,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+21167,Case 4542,Closed,Value 5,2012/07/11 12:20:47.000,Variant 1,1,Variant 1,Value 1,Value 176,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+21329,Case 4576,Assign seriousness,Value 2,2012/02/14 10:21:51.000,Variant 1,1,Variant 1,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+21330,Case 4576,Take in charge ticket,Value 2,2012/02/14 10:22:10.000,Variant 1,1,Variant 1,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+21331,Case 4576,Resolve ticket,Value 2,2012/02/14 11:32:51.000,Variant 1,1,Variant 1,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
+21332,Case 4576,Closed,Value 5,2012/03/16 10:30:16.000,Variant 1,1,Variant 1,Value 1,Value 68,Value 1,Value 1,Value 1,Value 2,Value 1,Value 1,Value 1
